@@ -1,0 +1,1001 @@
+customer_id,age,gender,city,signup_date,tenure_months,contract_type,internet_service,payment_method,monthly_charges,total_charges,num_support_calls,satisfaction_score,churn
+CUST0001,42,Male,Delhi,09-08-2024,26,One year,DSL,UPI,527.07,13958.71,0,7.2,0
+CUST0002,26,Female,Hyderabad,22-03-2022,55,One year,Fiber,Debit card,862.34,45901.68,2,8.2,0
+CUST0003,47,Male,Bengaluru,17-06-2024,27,Month-to-month,DSL,Net banking,673.89,18607.31,5,5.5,1
+CUST0004,49,Male,Hyderabad,18-08-2023,37,Month-to-month,Fiber,UPI,759.98,29345.53,5,4.2,1
+CUST0005,18,Female,Delhi,11-11-2021,59,Month-to-month,Fiber,UPI,794.27,47335.47,2,6.1,0
+CUST0006,22,Male,Hyderabad,17-10-2022,48,Month-to-month,None,UPI,281.75,13113.05,4,1.9,1
+CUST0007,40,Male,Mumbai,30-03-2026,6,Month-to-month,DSL,UPI,539.81,3297.01,2,6,0
+CUST0008,34,Male,Mumbai,14-09-2022,49,Month-to-month,None,Net banking,276.49,13335.42,4,4.9,0
+CUST0009,38,Male,Pune,14-12-2025,9,Month-to-month,Fiber,Credit card,798.9,6866.03,3,4.3,1
+CUST0010,28,Male,Delhi,01-01-2026,9,Month-to-month,Fiber,UPI,917.15,8091.19,4,4.2,1
+CUST0011,49,Female,Mumbai,22-08-2024,25,Month-to-month,DSL,UPI,588.06,15297.77,4,4.9,1
+CUST0012,47,Male,Mumbai,14-05-2025,16,Two year,DSL,Net banking,643.94,10211.49,1,8.4,0
+CUST0013,39,Male,Bengaluru,08-06-2024,28,Month-to-month,None,UPI,316.03,9171.53,8,6.2,0
+CUST0014,52,Female,Mumbai,02-10-2020,72,Month-to-month,Fiber,Debit card,916.54,66048.02,1,5,0
+CUST0015,44,Male,Mumbai,16-12-2023,33,Month-to-month,None,UPI,199,6578.15,3,5,1
+CUST0016,28,Female,Pune,15-07-2022,51,Month-to-month,None,UPI,339.41,16453.44,1,5.8,1
+CUST0017,42,Female,Delhi,04-07-2025,15,Month-to-month,DSL,Debit card,573.53,8720.9,2,7.8,0
+CUST0018,26,Female,Mumbai,01-09-2024,25,One year,Fiber,UPI,886.67,21297.4,0,7.3,0
+CUST0019,49,Male,Mumbai,09-09-2023,37,Two year,DSL,Debit card,683.86,25249.05,2,6.5,0
+CUST0020,37,Male,Mumbai,25-01-2026,8,Month-to-month,Fiber,UPI,842.45,6578.06,1,7.6,1
+CUST0021,36,Female,Bengaluru,14-08-2024,25,One year,DSL,Debit card,708.09,17511.74,0,5.9,1
+CUST0022,30,Male,Chennai,03-07-2025,15,Month-to-month,DSL,Debit card,715.56,10773.2,1,9.1,1
+CUST0023,53,Female,Delhi,01-09-2024,25,Month-to-month,None,Debit card,360.22,8568.25,3,5.9,0
+CUST0024,36,Male,Bengaluru,20-04-2024,29,Month-to-month,DSL,UPI,521.55,14799.13,1,5.1,1
+CUST0025,,Male,Hyderabad,04-09-2025,13,Month-to-month,DSL,Debit card,425.1,5796.87,0,6.6,0
+CUST0026,34,Female,Chennai,03-11-2025,11,One year,DSL,Net banking,686.31,7215.27,0,9.2,0
+CUST0027,44,Female,Bengaluru,09-07-2023,39,One year,DSL,UPI,608.91,23318.59,1,5.9,0
+CUST0028,42,Female,Hyderabad,27-10-2021,59,One year,None,UPI,240.38,13929.15,1,8.4,0
+CUST0029,43,Female,Chennai,26-10-2022,47,Month-to-month,Fiber,Debit card,993.88,46148.94,7,3.4,1
+CUST0030,43,Male,Hyderabad,13-10-2024,23,One year,None,UPI,231.08,5413.05,0,5.6,0
+CUST0031,64,Female,Delhi,15-09-2024,24,Month-to-month,DSL,Debit card,566.07,13242.97,2,7.5,0
+CUST0032,33,Female,Pune,13-09-2023,37,Month-to-month,None,Debit card,341.99,12603.36,1,5.1,0
+CUST0033,32,Male,Pune,17-04-2021,66,Month-to-month,DSL,UPI,510.91,34208.54,4,7.1,0
+CUST0034,28,Male,Delhi,06-10-2022,48,One year,DSL,Credit card,2446.34,27875.28,1,7.3,0
+CUST0035,45,Female,Delhi,04-04-2025,18,Two year,Fiber,Credit card,987.13,18565.73,0,5.4,0
+CUST0036,52,Male,Mumbai,08-02-2025,19,Month-to-month,DSL,UPI,616.89,12283.13,3,5.8,1
+CUST0037,37,Female,Delhi,17-10-2025,11,One year,Fiber,Net banking,999.79,10579.42,1,5.7,1
+CUST0038,,Male,Delhi,24-05-2023,40,One year,Fiber,UPI,990.69,39008.7,0,7.6,0
+CUST0039,28,Male,Hyderabad,28-10-2025,11,Two year,Fiber,UPI,900.62,9617.51,1,10,0
+CUST0040,46,Male,Pune,17-04-2025,17,Month-to-month,Fiber,Debit card,713.06,11742.35,2,5.6,1
+CUST0041,47,Male,Mumbai,25-06-2021,64,One year,Fiber,UPI,811.54,51891.71,1,7.6,0
+CUST0042,45,Female,Hyderabad,19-01-2023,45,One year,DSL,Debit card,661.07,29938.02,2,6.3,1
+CUST0043,30,Female,Hyderabad,18-06-2025,15,Two year,Fiber,UPI,775.98,11553.16,4,5.6,1
+CUST0044,41,Female,Chennai,05-07-2025,15,Month-to-month,DSL,Credit card,573.86,8412.12,3,5.7,1
+CUST0045,39,Female,Hyderabad,24-07-2026,2,Two year,Fiber,UPI,3287.33,1813.11,1,5.1,0
+CUST0046,41,Male,Hyderabad,15-04-2025,17,Month-to-month,DSL,Debit card,717.57,12799.02,2,6.9,1
+CUST0047,48,Female,Mumbai,31-12-2023,33,Two year,DSL,Debit card,554,19056.57,0,6.5,1
+CUST0048,41,Female,Mumbai,07-07-2023,39,Month-to-month,Fiber,Debit card,848.52,31688.83,1,5,1
+CUST0049,46,Female,Mumbai,29-07-2025,14,Month-to-month,DSL,Net banking,595.8,8471.78,3,7.8,1
+CUST0050,39,Female,Bengaluru,12-07-2026,2,Month-to-month,None,Debit card,328.07,653.31,3,6.1,1
+CUST0051,41,Female,Chennai,09-07-2025,14,Month-to-month,DSL,Debit card,587.66,8382.58,5,4.8,1
+CUST0052,46,Female,Mumbai,13-09-2025,12,Month-to-month,Fiber,Credit card,983.94,11921.76,1,9.1,0
+CUST0053,21,Female,Delhi,24-12-2025,9,Month-to-month,DSL,Net banking,536.07,5012.43,3,2.6,0
+CUST0054,34,Female,Mumbai,03-11-2023,35,Month-to-month,DSL,Credit card,609.61,20412.46,2,8.6,0
+CUST0055,32,Female,Pune,08-08-2024,26,Month-to-month,Fiber,Net banking,935.62,23960.25,2,4.7,1
+CUST0056,30,Male,Pune,22-10-2021,60,One year,DSL,UPI,567.98,35733.31,0,7.4,0
+CUST0057,35,Male,Pune,30-05-2025,16,Two year,Fiber,Credit card,967.18,14983.22,1,5.6,0
+CUST0058,56,Female,Chennai,26-02-2025,19,One year,DSL,Debit card,611.92,11193.2,0,5.3,0
+CUST0059,28,Male,Mumbai,30-05-2021,64,Month-to-month,Fiber,UPI,963.11,63050.4,0,9.4,0
+CUST0060,50,Male,Hyderabad,09-10-2025,11,Month-to-month,Fiber,UPI,915.53,10350.23,0,10,0
+CUST0061,18,Female,Bengaluru,15-06-2023,40,Two year,None,Net banking,330.11,13431.88,0,,0
+CUST0062,34,Female,Pune,11-12-2022,46,Month-to-month,None,Credit card,249.41,11789.74,1,7.3,0
+CUST0063,40,Female,Pune,03-03-2026,7,Month-to-month,None,UPI,249.54,1780.62,1,6.8,0
+CUST0064,45,Male,Hyderabad,13-03-2024,31,Two year,None,UPI,397.95,11887.12,1,9.8,0
+CUST0065,47,Male,Mumbai,30-08-2024,25,Two year,Fiber,UPI,950.84,24028.25,3,2.1,0
+CUST0066,48,Female,Chennai,21-05-2023,40,Month-to-month,Fiber,Credit card,818.16,33632.52,2,7,1
+CUST0067,34,Female,Pune,08-05-2024,29,One year,Fiber,Net banking,914.47,27488.97,2,5,0
+CUST0068,32,Male,Bengaluru,14-11-2025,10,Month-to-month,DSL,Net banking,410.1,3996.93,2,2.1,1
+CUST0069,48,Female,Hyderabad,21-06-2026,3,One year,Fiber,Debit card,854.08,2466.78,1,6,1
+CUST0070,36,Male,Mumbai,18-12-2025,9,Month-to-month,None,Debit card,376.88,3487.26,0,10,0
+CUST0071,23,Female,Mumbai,19-11-2023,34,Month-to-month,Fiber,UPI,889.99,29522.98,0,5.8,0
+CUST0072,24,Female,Chennai,10-12-2025,9,One year,Fiber,Net banking,909.43,7801.76,2,7.7,1
+CUST0073,27,Female,Mumbai,07-10-2020,72,Month-to-month,Fiber,UPI,658.69,48968.03,4,,0
+CUST0074,44,Female,Delhi,10-08-2022,50,One year,Fiber,UPI,868.62,43457.02,2,,1
+CUST0075,40,Male,Delhi,03-11-2025,11,Month-to-month,Fiber,Net banking,927.06,10020.87,3,6.2,1
+CUST0076,46,Male,Mumbai,11-10-2024,23,Two year,DSL,Net banking,637.22,13940.01,2,3.2,1
+CUST0077,33,Male,Bengaluru,09-05-2025,16,Two year,Fiber,UPI,976.99,14905.47,0,5.7,0
+CUST0078,40,Female,Bengaluru,18-04-2024,29,Month-to-month,DSL,Debit card,583.18,17407.11,4,7.2,1
+CUST0079,46,Female,Mumbai,02-09-2023,37,One year,None,Credit card,286.75,10598.83,0,7.1,0
+CUST0080,34,Female,Hyderabad,25-01-2026,8,Month-to-month,DSL,UPI,493.43,3809.17,2,7,1
+CUST0081,43,Male,Pune,10-11-2023,35,Month-to-month,DSL,UPI,583.64,20138.36,3,6.2,1
+CUST0082,30,Male,Pune,05-10-2023,36,Month-to-month,Fiber,UPI,799.07,27803.72,2,10,1
+CUST0083,34,Female,Delhi,27-07-2025,14,Two year,Fiber,Credit card,752.17,10122.73,0,6.2,0
+CUST0084,33,Female,Chennai,18-09-2021,61,Two year,Fiber,Credit card,813.19,48494.97,0,9.9,0
+CUST0085,24,Female,Pune,12-09-2024,24,Two year,None,Credit card,420.69,10146.55,0,7.2,0
+CUST0086,44,Male,Pune,01-12-2022,46,Two year,DSL,UPI,578.36,25833.05,2,9.3,0
+CUST0087,32,Male,Delhi,28-03-2026,6,Two year,Fiber,Net banking,917.59,5419.47,1,4.4,1
+CUST0088,38,Female,Hyderabad,05-04-2022,54,Month-to-month,DSL,Credit card,558.92,30115.07,1,7,0
+CUST0089,44,Female,Pune,25-10-2023,35,Two year,DSL,Net banking,456.76,,1,5.9,0
+CUST0090,43,Male,Mumbai,21-08-2025,13,One year,DSL,UPI,674.89,8447.74,1,6.9,0
+CUST0091,46,Female,Bengaluru,17-11-2023,34,Month-to-month,DSL,Credit card,426.22,13823.23,3,8.2,0
+CUST0092,37,Male,Mumbai,02-03-2021,67,One year,None,Debit card,255.62,16330.94,2,,0
+CUST0093,33,Male,Pune,26-04-2025,17,Month-to-month,DSL,UPI,595.63,9974.01,1,8.8,0
+CUST0094,37,Female,Pune,24-04-2025,17,Month-to-month,DSL,UPI,618.44,10743.52,3,4.7,1
+CUST0095,18,Female,Mumbai,03-11-2024,23,Month-to-month,Fiber,UPI,841.88,18649.23,1,5.2,0
+CUST0096,21,Female,Delhi,19-06-2024,27,Month-to-month,Fiber,UPI,752.96,20913.35,2,6.3,1
+CUST0097,22,Male,Hyderabad,24-09-2022,48,Month-to-month,None,Credit card,235.91,11567.9,3,,0
+CUST0098,26,Female,Bengaluru,27-09-2023,36,Two year,DSL,UPI,540.1,18479.09,2,6,0
+CUST0099,43,Female,Bengaluru,03-11-2024,23,One year,Fiber,UPI,838.15,18365.14,0,5.3,1
+CUST0100,27,Female,Chennai,29-01-2024,32,Month-to-month,DSL,Credit card,677.6,21021.93,7,6.7,1
+CUST0101,33,Male,Mumbai,08-10-2020,72,Month-to-month,Fiber,UPI,802.91,55243.48,2,5.6,0
+CUST0102,54,Female,Mumbai,17-06-2023,40,Month-to-month,DSL,UPI,624.08,25041.44,4,8.2,1
+CUST0103,34,Female,Chennai,23-09-2024,24,Month-to-month,Fiber,Debit card,912.66,20895.45,2,6.3,1
+CUST0104,47,Female,Mumbai,20-11-2024,22,Two year,DSL,UPI,676.84,15341.13,1,7.8,0
+CUST0105,27,Male,Bengaluru,27-02-2024,31,Month-to-month,DSL,UPI,589.35,18256.99,2,7.3,0
+CUST0106,36,Female,Bengaluru,02-10-2022,48,One year,Fiber,UPI,963.29,47291.93,1,5.2,0
+CUST0107,27,Male,Pune,11-06-2025,15,One year,Fiber,UPI,886.22,13626.57,1,7.3,0
+CUST0108,34,Male,Delhi,15-02-2023,44,One year,DSL,Credit card,634.75,27947.89,2,9.8,0
+CUST0109,48,Female,Pune,23-09-2024,24,Two year,Fiber,UPI,779.76,19510.27,0,7.5,0
+CUST0110,18,Male,Pune,19-06-2024,27,Month-to-month,Fiber,UPI,688.94,19513.3,2,7.9,0
+CUST0111,43,Female,Delhi,07-10-2020,72,Two year,DSL,Net banking,630.2,44735.6,2,7.5,0
+CUST0112,41,Male,Mumbai,05-05-2023,41,One year,Fiber,Net banking,934.49,36880.62,2,,0
+CUST0113,31,Female,Hyderabad,10-03-2025,18,One year,Fiber,UPI,938.04,16653.8,1,7,0
+CUST0114,,Female,Chennai,06-11-2023,35,One year,Fiber,UPI,858.01,29199.57,0,,1
+CUST0115,39,Female,Hyderabad,09-08-2022,50,Two year,None,Credit card,419.18,21023.98,0,,0
+CUST0116,32,Male,Mumbai,25-04-2023,41,Two year,Fiber,Debit card,863.21,34961.2,3,3.5,0
+CUST0117,41,Male,Mumbai,20-05-2026,4,Month-to-month,Fiber,Debit card,933.67,3727.38,3,6.4,1
+CUST0118,38,Male,Mumbai,01-08-2024,26,Two year,Fiber,UPI,947.57,25285.23,1,6.3,0
+CUST0119,57,Male,Pune,30-09-2023,36,One year,Fiber,UPI,1037.5,,2,5.6,0
+CUST0120,35,Female,Chennai,27-11-2023,34,Month-to-month,Fiber,Credit card,874.64,29849.2,6,7.2,0
+CUST0121,26,Male,Mumbai,08-02-2025,19,Two year,Fiber,Net banking,847.74,15841.55,1,5.3,0
+CUST0122,40,Male,Mumbai,01-04-2023,42,Month-to-month,Fiber,Net banking,780.15,33700.01,2,3.8,1
+CUST0123,41,Male,Hyderabad,19-04-2022,54,One year,Fiber,UPI,1024.19,56077.98,1,8.1,0
+CUST0124,54,Male,Mumbai,03-03-2026,7,Month-to-month,None,Credit card,333.71,2221.16,0,4.4,0
+CUST0125,48,Female,Pune,05-03-2026,6,Month-to-month,Fiber,UPI,936.24,5707.35,2,2.8,1
+CUST0126,42,Female,Pune,03-12-2023,34,Two year,Fiber,Debit card,1149.34,37788.63,2,7.9,0
+CUST0127,56,Male,Bengaluru,12-02-2023,44,Month-to-month,None,Net banking,326,14665.99,3,6.2,0
+CUST0128,24,Female,Hyderabad,02-05-2025,17,Month-to-month,None,Credit card,199,3405.78,2,7.2,0
+CUST0129,30,Female,Pune,30-05-2026,4,Month-to-month,DSL,UPI,584.33,2314.29,1,5.9,1
+CUST0130,27,Male,Chennai,06-08-2024,26,Month-to-month,Fiber,Credit card,822.02,21787.29,0,4.5,0
+CUST0131,33,Male,Hyderabad,22-11-2023,34,Two year,Fiber,Credit card,868.33,30576,4,3.5,0
+CUST0132,21,Male,Hyderabad,20-12-2024,21,Two year,Fiber,Debit card,867.79,18731.56,1,6.2,0
+CUST0133,46,Male,Mumbai,05-08-2022,50,Month-to-month,Fiber,UPI,853.04,42845.55,2,4,1
+CUST0134,35,Male,Pune,14-01-2024,33,One year,Fiber,Net banking,788.54,26601.31,1,7.2,0
+CUST0135,20,Male,Hyderabad,18-05-2025,16,Month-to-month,DSL,UPI,727.4,11538.21,2,5.5,1
+CUST0136,26,Female,Mumbai,09-04-2025,17,One year,Fiber,UPI,923.91,16160.43,0,7.3,0
+CUST0137,42,Male,Bengaluru,15-06-2024,27,Month-to-month,DSL,UPI,581.96,16229.96,4,5.9,1
+CUST0138,48,Female,Bengaluru,27-01-2025,20,Month-to-month,Fiber,UPI,960.61,18515.36,0,7.7,0
+CUST0139,62,Male,Pune,16-03-2026,6,Month-to-month,Fiber,UPI,937.69,5478.75,1,7.5,1
+CUST0140,73,Male,Hyderabad,06-03-2024,31,One year,DSL,Debit card,622.06,18840.31,2,5.7,1
+CUST0141,43,Female,Chennai,12-04-2025,17,Month-to-month,None,UPI,354.8,5830.19,3,6.3,1
+CUST0142,26,Female,Bengaluru,11-01-2025,20,Month-to-month,Fiber,UPI,910.71,18018.46,2,6.7,0
+CUST0143,18,Female,Delhi,29-10-2025,11,Two year,DSL,UPI,653.62,6969.12,2,1.9,0
+CUST0144,41,Male,Hyderabad,14-02-2021,68,One year,Fiber,UPI,960.25,65920.84,1,7.8,0
+CUST0145,28,Male,Delhi,11-07-2023,39,Month-to-month,Fiber,Net banking,913.02,34189.22,3,6.2,0
+CUST0146,33,Male,Bengaluru,13-10-2020,72,Two year,DSL,Net banking,582.37,40965.9,0,8,0
+CUST0147,31,Male,Hyderabad,31-12-2024,21,Two year,Fiber,UPI,1022.43,,1,4.3,0
+CUST0148,36,Female,Bengaluru,29-04-2023,41,Month-to-month,Fiber,Debit card,861.77,34974.1,5,4.7,1
+CUST0149,51,Male,Mumbai,14-02-2024,31,One year,DSL,Debit card,631.31,19416.91,4,3.6,0
+CUST0150,40,Male,Pune,12-05-2025,16,Month-to-month,Fiber,Net banking,933.11,15374.56,1,8,0
+CUST0151,36,Female,Mumbai,03-01-2025,21,One year,Fiber,UPI,851.24,18742.15,2,3.8,1
+CUST0152,26,Male,Delhi,15-07-2023,39,Month-to-month,Fiber,UPI,835.37,32791.42,3,4.3,0
+CUST0153,18,Male,Delhi,11-10-2025,11,One year,None,Credit card,271.69,2862.79,2,7.3,0
+CUST0154,32,Male,Delhi,21-07-2022,51,Month-to-month,DSL,Net banking,560.62,27456.26,0,5.9,0
+CUST0155,37,Male,Mumbai,01-05-2024,29,Month-to-month,Fiber,Debit card,783.35,23781.45,3,4.3,0
+CUST0156,59,Female,Hyderabad,21-11-2022,46,Two year,Fiber,Credit card,847.88,39701.54,0,8.6,0
+CUST0157,40,Female,Chennai,02-12-2023,34,Month-to-month,DSL,UPI,621.3,21657.52,6,6.6,1
+CUST0158,50,Female,Mumbai,04-03-2026,7,Two year,Fiber,Debit card,1001.28,7132.15,2,7.6,0
+CUST0159,32,Male,Bengaluru,13-07-2024,26,Two year,DSL,Net banking,644.35,,1,8.2,0
+CUST0160,24,Female,Bengaluru,02-07-2022,51,Two year,DSL,UPI,392.04,19890.8,0,6.6,0
+CUST0161,26,Female,Delhi,04-05-2024,29,Month-to-month,Fiber,Debit card,951.3,28410.04,4,5.2,1
+CUST0162,29,Male,Pune,24-07-2024,26,Two year,Fiber,Credit card,855.35,23053.86,2,5.1,0
+CUST0163,64,Female,Hyderabad,25-04-2024,29,Month-to-month,Fiber,Credit card,936.25,26438.08,3,,0
+CUST0164,28,Male,Chennai,17-04-2026,5,Month-to-month,Fiber,Credit card,898.87,4537.48,3,5,1
+CUST0165,48,Female,Bengaluru,25-02-2022,55,Two year,Fiber,Debit card,884.58,46983.64,2,5.5,0
+CUST0166,27,Female,Chennai,09-06-2026,3,One year,None,Net banking,291.82,915.58,2,7.4,1
+CUST0167,49,Male,Chennai,20-08-2021,62,Month-to-month,Fiber,Credit card,898.21,54309.07,3,8.1,0
+CUST0168,43,Male,Mumbai,09-01-2025,20,Month-to-month,DSL,UPI,707.55,14471.71,0,7.7,0
+CUST0169,36,Male,Bengaluru,18-09-2023,36,Two year,DSL,UPI,598.43,20964.2,1,9.9,0
+CUST0170,38,Female,Delhi,02-05-2026,5,One year,Fiber,UPI,986.84,4991.46,0,5.7,1
+CUST0171,30,Male,Chennai,10-02-2023,44,Month-to-month,Fiber,UPI,975.19,43591.74,6,1.6,1
+CUST0172,43,Female,Pune,30-06-2023,39,Two year,Fiber,UPI,953.36,36543.12,2,7.6,0
+CUST0173,33,Male,Mumbai,21-08-2023,37,Month-to-month,DSL,Credit card,457.07,17450.79,2,4.9,1
+CUST0174,23,Male,Hyderabad,12-05-2026,4,Month-to-month,Fiber,UPI,989.33,4109.82,1,6.2,1
+CUST0175,23,Female,Mumbai,20-07-2025,14,One year,DSL,UPI,563.37,8167.23,2,3.1,1
+CUST0176,40,Female,Hyderabad,06-12-2023,34,Two year,None,Debit card,357.26,11941.31,1,5,0
+CUST0177,57,Female,Mumbai,22-04-2022,54,Month-to-month,DSL,UPI,522.2,28887.81,0,4.3,0
+CUST0178,40,Male,Chennai,10-08-2025,13,Month-to-month,None,Credit card,205.19,2683.34,1,5.9,0
+CUST0179,37,Male,Hyderabad,21-08-2025,13,Month-to-month,DSL,Net banking,758.11,9946.72,1,5.9,0
+CUST0180,41,Male,Mumbai,01-01-2024,33,Two year,None,Credit card,223.44,7356.87,1,6.8,1
+CUST0181,54,Female,Bengaluru,02-10-2020,72,Month-to-month,DSL,UPI,691.69,50301,2,8.5,0
+CUST0182,41,Female,Mumbai,03-06-2025,16,Month-to-month,DSL,UPI,609.47,9396.23,2,7.5,1
+CUST0183,33,Male,Bengaluru,31-01-2025,20,Two year,DSL,Credit card,566.39,11224.54,2,3.4,0
+CUST0184,51,Female,Bengaluru,14-03-2025,18,Month-to-month,None,Credit card,296.41,,3,7,0
+CUST0185,43,Male,Hyderabad,02-10-2024,24,One year,DSL,UPI,495.91,11640.13,0,7.2,0
+CUST0186,56,Female,Pune,27-12-2021,57,Month-to-month,DSL,Credit card,598.9,32866.76,2,6.1,0
+CUST0187,40,Female,Mumbai,16-08-2024,25,Two year,DSL,Credit card,513.38,12465.5,2,6.3,1
+CUST0188,23,Female,Bengaluru,29-10-2020,72,Month-to-month,None,UPI,268.36,19866.66,0,7.4,0
+CUST0189,22,Male,Delhi,30-05-2024,28,Month-to-month,Fiber,Credit card,974.02,27408.48,4,4.4,1
+CUST0190,58,Female,Delhi,04-10-2021,60,Month-to-month,DSL,UPI,620.34,35447.38,2,6,0
+CUST0191,59,Male,Pune,25-12-2024,21,One year,DSL,UPI,481.43,10401.73,2,8.4,0
+CUST0192,36,Female,Mumbai,28-12-2025,9,One year,None,Debit card,368.12,3448.74,1,5.4,1
+CUST0193,33,Male,Hyderabad,09-09-2024,25,Month-to-month,Fiber,UPI,899.43,23341.17,3,4.1,1
+CUST0194,56,Female,Pune,17-08-2023,38,Month-to-month,DSL,Credit card,556.63,21835.18,5,5.1,1
+CUST0195,25,Male,Mumbai,02-07-2025,15,Two year,DSL,Credit card,659.73,10383.04,1,4.6,0
+CUST0196,27,Male,Chennai,17-04-2022,54,Month-to-month,None,UPI,286.62,15611.21,1,3.5,0
+CUST0197,46,Female,Pune,28-02-2025,19,Month-to-month,None,Net banking,206.75,4109.97,1,6,0
+CUST0198,33,Female,Bengaluru,10-10-2025,11,One year,DSL,UPI,747.82,8595.24,1,9.3,0
+CUST0199,38,Male,Mumbai,16-10-2020,72,Month-to-month,DSL,UPI,598.62,42295.69,3,5.9,0
+CUST0200,36,Female,Hyderabad,02-08-2025,14,Month-to-month,Fiber,Net banking,893.49,12963.47,0,7.3,1
+CUST0201,,Male,Bengaluru,06-04-2025,18,Month-to-month,None,Debit card,267.59,4957.49,0,3.2,1
+CUST0202,55,Male,Hyderabad,16-04-2023,42,Month-to-month,Fiber,Debit card,994.4,42916.67,1,7.4,1
+CUST0203,39,Male,Pune,30-12-2024,21,Month-to-month,DSL,UPI,558.01,12182.58,2,6.5,0
+CUST0204,46,Male,Delhi,13-09-2025,12,One year,DSL,UPI,476.4,5650.59,1,5.5,1
+CUST0205,18,Male,Bengaluru,07-05-2025,17,One year,Fiber,Credit card,845.71,14233.38,1,7,0
+CUST0206,37,Male,Mumbai,19-10-2020,72,Month-to-month,Fiber,UPI,1006.14,73456.65,0,,0
+CUST0207,28,Male,Mumbai,05-07-2023,39,Two year,Fiber,UPI,966.57,38592.66,1,4.7,0
+CUST0208,23,Male,Pune,14-02-2023,44,Month-to-month,None,Debit card,279.6,12769.57,5,5.8,1
+CUST0209,27,Male,Chennai,12-02-2024,32,One year,DSL,UPI,709.86,23569.27,2,8.5,1
+CUST0210,34,Female,Bengaluru,09-11-2023,35,Month-to-month,Fiber,UPI,959.84,34337.98,2,5.9,1
+CUST0211,49,Female,Bengaluru,05-03-2025,19,One year,DSL,UPI,578.67,11497.07,1,5.1,0
+CUST0212,22,Male,Bengaluru,20-04-2024,29,Month-to-month,Fiber,Credit card,886.73,24888.76,1,6.3,1
+CUST0213,38,Male,Delhi,06-05-2026,4,Month-to-month,None,Credit card,326.35,1364.19,4,7.1,1
+CUST0214,32,Female,Delhi,03-09-2022,49,Month-to-month,Fiber,Net banking,833.45,39059.25,0,4.8,1
+CUST0215,34,Female,Delhi,15-02-2025,19,Month-to-month,Fiber,UPI,900.36,17201.99,7,5.6,1
+CUST0216,50,Female,Bengaluru,12-11-2025,10,Month-to-month,Fiber,UPI,924.68,8867.86,0,5.8,0
+CUST0217,,Female,Pune,18-03-2024,30,One year,DSL,Credit card,465.04,14046.07,0,7.4,1
+CUST0218,54,Female,Hyderabad,07-11-2024,23,Two year,DSL,UPI,584.85,13303.73,1,5.6,0
+CUST0219,36,Female,Hyderabad,22-09-2022,48,Month-to-month,DSL,Credit card,575.76,26480.2,2,5.3,1
+CUST0220,30,Male,Mumbai,28-08-2024,25,Two year,DSL,Net banking,682.25,17308.88,1,9.4,0
+CUST0221,35,Male,Delhi,22-04-2025,17,One year,Fiber,Credit card,752.44,13087.22,1,4.1,0
+CUST0222,41,Male,Pune,19-07-2024,26,Two year,Fiber,Credit card,869.48,21869.93,1,7.5,0
+CUST0223,40,Male,Chennai,14-06-2021,64,One year,Fiber,Net banking,861.46,56205.44,0,10,0
+CUST0224,25,Female,Chennai,14-09-2022,49,One year,None,UPI,376.81,17871.09,0,8.2,0
+CUST0225,39,Female,Chennai,18-07-2023,39,Month-to-month,Fiber,Net banking,896.52,33696.46,1,4.3,0
+CUST0226,41,Female,Mumbai,18-07-2022,51,One year,None,Credit card,443.69,21830.24,1,4.3,0
+CUST0227,68,Male,Pune,17-05-2023,41,Two year,Fiber,Credit card,952.98,39459.3,0,5.6,0
+CUST0228,61,Male,Pune,25-08-2025,13,Month-to-month,Fiber,Net banking,867.18,11587.63,1,6.9,0
+CUST0229,28,Male,Pune,26-01-2023,44,Month-to-month,Fiber,Credit card,919.17,40835.35,6,5.3,1
+CUST0230,35,Female,Pune,14-04-2022,54,Month-to-month,Fiber,Credit card,871.67,48526.3,6,2.6,1
+CUST0231,20,Male,Pune,06-02-2022,56,Two year,DSL,UPI,668.75,37792.58,0,5.4,0
+CUST0232,31,Male,Chennai,30-10-2025,11,Month-to-month,DSL,Debit card,493.42,5588.99,2,4.8,0
+CUST0233,42,Female,Pune,22-03-2025,18,One year,Fiber,Credit card,834.1,15729.24,0,6.7,0
+CUST0234,52,Female,Pune,10-05-2025,16,Two year,DSL,UPI,636.46,10072.32,1,10,0
+CUST0235,29,Female,Hyderabad,30-12-2024,21,Two year,DSL,Debit card,698.06,14146.1,3,4.3,0
+CUST0236,30,Male,Delhi,02-10-2023,36,Month-to-month,None,Credit card,199,6902.8,1,4.9,0
+CUST0237,18,Male,Bengaluru,16-03-2024,30,One year,None,UPI,409.96,12418.69,2,4.3,0
+CUST0238,36,Male,Bengaluru,26-03-2024,30,Two year,DSL,UPI,588.79,17746.9,3,7.1,0
+CUST0239,25,Male,Hyderabad,23-12-2025,9,Month-to-month,DSL,Credit card,449.29,3915.93,2,6.2,0
+CUST0240,,Female,Bengaluru,05-04-2025,18,One year,DSL,UPI,359.86,6724.99,3,4.3,1
+CUST0241,27,Male,Delhi,28-10-2021,59,Month-to-month,DSL,UPI,477.65,29468.53,3,5.3,0
+CUST0242,37,Male,Bengaluru,06-04-2022,54,One year,DSL,Credit card,598.42,31517.2,0,5.6,0
+CUST0243,18,Female,Delhi,09-09-2024,25,Month-to-month,Fiber,UPI,894.73,21712.6,5,5.8,1
+CUST0244,20,Male,Mumbai,02-02-2023,44,Month-to-month,DSL,UPI,650.66,27810.03,5,10,0
+CUST0245,64,Male,Delhi,16-11-2023,34,Month-to-month,None,Debit card,256.04,8607.36,2,7.3,0
+CUST0246,23,Male,Pune,24-10-2022,47,Month-to-month,Fiber,UPI,811.36,39480.91,0,6.8,1
+CUST0247,25,Male,Hyderabad,14-01-2023,45,Month-to-month,DSL,Net banking,566.95,25757.57,5,4.1,1
+CUST0248,60,Male,Mumbai,30-06-2024,27,One year,None,Net banking,302.69,7819.21,2,3.9,1
+CUST0249,73,Female,Pune,19-06-2023,39,Month-to-month,Fiber,Credit card,918.46,35723.15,3,7.3,1
+CUST0250,24,Female,Mumbai,23-10-2023,35,Month-to-month,DSL,Net banking,536.87,18020.66,1,7.9,0
+CUST0251,34,Male,Hyderabad,26-06-2024,27,One year,None,Net banking,372.12,9953.01,0,6.2,0
+CUST0252,42,Male,Mumbai,31-10-2024,23,One year,None,UPI,250.29,5701.13,0,9.2,0
+CUST0253,59,Male,Bengaluru,09-10-2020,72,Month-to-month,Fiber,Debit card,830.42,60677.24,4,5.6,0
+CUST0254,26,Female,Hyderabad,25-06-2024,27,Two year,Fiber,UPI,856.61,23242.85,0,8.4,0
+CUST0255,35,Female,Pune,04-04-2023,42,Month-to-month,DSL,Debit card,685.99,29891.31,4,6.1,1
+CUST0256,47,Female,Bengaluru,03-11-2020,71,Two year,Fiber,Credit card,889.38,60091.45,3,,0
+CUST0257,43,Male,Mumbai,07-07-2023,39,Month-to-month,Fiber,UPI,844.44,33835.52,5,3.5,1
+CUST0258,33,Male,Pune,30-07-2023,38,One year,Fiber,UPI,974.09,35248.52,1,6.4,0
+CUST0259,36,Male,Bengaluru,11-07-2024,27,Two year,Fiber,Net banking,1071.42,28362.18,1,8.2,1
+CUST0260,22,Male,Chennai,25-09-2023,36,Two year,DSL,UPI,616.77,23046.71,2,5.4,0
+CUST0261,35,Male,Mumbai,23-11-2024,22,One year,DSL,UPI,698.71,15664.32,2,7.1,0
+CUST0262,35,Female,Delhi,05-10-2020,72,One year,DSL,UPI,682.89,47555.35,3,4,0
+CUST0263,41,Male,Mumbai,25-12-2025,9,Month-to-month,DSL,Credit card,551.55,4959.38,1,8.1,0
+CUST0264,31,Female,Delhi,13-09-2024,24,One year,Fiber,Debit card,902.13,22131.57,0,7.6,0
+CUST0265,44,Female,Bengaluru,01-07-2023,39,One year,Fiber,Debit card,797.4,32458.68,2,4.1,0
+CUST0266,50,Female,Bengaluru,11-08-2023,38,Two year,Fiber,Credit card,883.6,34027.81,1,6.2,0
+CUST0267,40,Male,Bengaluru,05-12-2024,22,Month-to-month,Fiber,UPI,849.9,17809.05,0,8.7,1
+CUST0268,42,Female,Pune,29-03-2026,6,Month-to-month,Fiber,UPI,867.77,5206.46,1,4.4,0
+CUST0269,39,Male,Bengaluru,25-11-2025,10,One year,Fiber,Credit card,840.01,8108.58,3,4,1
+CUST0270,38,Male,Bengaluru,27-02-2024,31,Month-to-month,Fiber,Debit card,877.03,25958.44,1,6.5,1
+CUST0271,,Male,Bengaluru,07-05-2026,4,Month-to-month,Fiber,Debit card,942.58,3807.46,2,10,1
+CUST0272,42,Male,Pune,20-04-2023,41,Month-to-month,DSL,Credit card,590.44,24878.41,4,4.4,1
+CUST0273,37,Female,Delhi,04-01-2022,57,One year,DSL,Credit card,450.85,24506.2,0,7.9,0
+CUST0274,63,Female,Mumbai,06-12-2022,46,Month-to-month,None,Credit card,240.31,11367.75,3,6.4,0
+CUST0275,57,Female,Pune,05-06-2022,52,Month-to-month,DSL,Credit card,478.45,25392.88,3,4.9,0
+CUST0276,43,Male,Mumbai,24-04-2026,5,Month-to-month,DSL,Credit card,619.52,3175.66,4,5.9,1
+CUST0277,29,Male,Delhi,02-12-2024,22,Two year,Fiber,Debit card,940.27,20157.89,1,5.8,0
+CUST0278,25,Female,Bengaluru,19-09-2025,12,One year,DSL,Credit card,620.52,7367.01,0,6.4,0
+CUST0279,52,Male,Mumbai,08-02-2026,7,Month-to-month,Fiber,Net banking,837.01,5636.28,3,3,1
+CUST0280,41,Female,Hyderabad,08-03-2025,19,Month-to-month,Fiber,Credit card,919.75,17018.96,2,6.3,1
+CUST0281,44,Female,Delhi,27-12-2020,70,One year,Fiber,UPI,862.39,59176.79,0,8.6,0
+CUST0282,18,Female,Bengaluru,26-10-2020,72,Month-to-month,Fiber,UPI,808.94,57192.01,3,6.1,0
+CUST0283,49,Female,Delhi,31-07-2025,14,One year,Fiber,Credit card,959.35,12994.45,0,9,0
+CUST0284,43,Male,Delhi,09-05-2024,29,Month-to-month,DSL,Credit card,665.44,18697.04,0,8,0
+CUST0285,25,Male,Bengaluru,12-11-2023,35,Two year,DSL,Credit card,675.91,24606.6,1,6.5,0
+CUST0286,32,Male,Chennai,09-12-2024,22,Month-to-month,DSL,Debit card,551.33,12473.6,1,5.5,0
+CUST0287,41,Male,Delhi,16-10-2021,60,One year,DSL,UPI,694.35,41013.08,0,6.1,0
+CUST0288,39,Male,Delhi,16-02-2025,19,Month-to-month,DSL,Debit card,560.51,11126.42,2,3.7,1
+CUST0289,34,Female,Bengaluru,04-05-2025,17,Two year,Fiber,Debit card,952.28,15766.11,2,5.8,0
+CUST0290,37,Male,Bengaluru,28-07-2025,14,Two year,DSL,Credit card,559.13,7754.88,0,7.3,0
+CUST0291,35,Female,Pune,10-11-2024,22,One year,DSL,Credit card,582.08,13207.25,1,9.7,0
+CUST0292,40,Female,Delhi,27-07-2026,2,Month-to-month,Fiber,UPI,706.31,1404.55,3,6.9,1
+CUST0293,56,Female,Delhi,11-10-2024,23,Month-to-month,Fiber,Credit card,875.85,19609.96,4,4,1
+CUST0294,18,Male,Chennai,29-03-2024,30,Two year,None,Debit card,307.29,9097.51,3,3.4,1
+CUST0295,35,Female,Delhi,22-02-2024,31,One year,DSL,Net banking,567.2,17584.47,1,6.3,1
+CUST0296,40,Male,Delhi,26-09-2025,12,Month-to-month,DSL,Credit card,740.5,8993.2,0,8.5,1
+CUST0297,42,Male,Chennai,05-03-2024,31,Month-to-month,DSL,UPI,507,15568.64,4,5.2,1
+CUST0298,34,Male,Delhi,02-04-2024,30,Month-to-month,Fiber,Debit card,854.91,25471.11,3,6.9,0
+CUST0299,18,Male,Pune,11-03-2024,31,Two year,DSL,Debit card,527.61,15969.82,1,6.3,0
+CUST0300,42,Male,Pune,11-12-2022,46,One year,Fiber,UPI,854.9,39464.4,2,7.6,0
+CUST0301,59,Male,Pune,09-10-2025,11,One year,Fiber,Debit card,982.51,10504.41,1,3.8,1
+CUST0302,20,Female,Pune,09-11-2024,23,One year,DSL,UPI,718.24,17126.66,2,9.2,0
+CUST0303,48,Male,Delhi,17-03-2026,6,Month-to-month,Fiber,UPI,843.94,5188.9,2,4.3,1
+CUST0304,34,Male,Bengaluru,29-01-2023,44,Month-to-month,DSL,UPI,542.16,23641.01,4,7,1
+CUST0305,37,Female,Bengaluru,01-09-2025,13,Month-to-month,Fiber,UPI,807.43,10756.09,2,5.8,1
+CUST0306,25,Female,Pune,20-07-2022,51,One year,DSL,Net banking,704.5,34158.16,2,6.1,0
+CUST0307,34,Female,Delhi,07-06-2022,52,Month-to-month,DSL,Credit card,689.68,35305.65,4,5.2,1
+CUST0308,54,Male,Pune,04-10-2024,24,Month-to-month,DSL,UPI,591.52,14111.73,0,7.5,0
+CUST0309,45,Female,Chennai,11-10-2024,23,Month-to-month,DSL,Credit card,488.31,11197.21,3,6.8,0
+CUST0310,59,Female,Pune,28-01-2026,8,Month-to-month,None,UPI,199,1631.6,5,7.2,0
+CUST0311,52,Male,Bengaluru,09-06-2024,28,One year,DSL,UPI,613.65,17977.4,2,,1
+CUST0312,43,Male,Mumbai,11-12-2022,46,Month-to-month,DSL,UPI,643.95,29266.23,0,7.6,0
+CUST0313,59,Female,Bengaluru,05-01-2024,33,Month-to-month,DSL,Debit card,434.71,14131.11,2,9.4,0
+CUST0314,43,Male,Mumbai,24-06-2021,64,One year,Fiber,UPI,874.3,56573.59,2,6.5,1
+CUST0315,48,Male,Bengaluru,20-12-2024,21,Month-to-month,Fiber,Debit card,1029.46,21145.76,0,8.9,0
+CUST0316,34,Female,Mumbai,29-12-2024,21,Month-to-month,Fiber,UPI,882.6,,3,6.7,0
+CUST0317,39,Female,Chennai,22-07-2025,14,Month-to-month,Fiber,Debit card,1019.17,14926.92,2,5.3,1
+CUST0318,30,Female,Delhi,24-10-2020,72,Two year,Fiber,Debit card,951.92,70659.7,0,7.3,0
+CUST0319,50,Female,Bengaluru,31-01-2026,8,Month-to-month,Fiber,UPI,813.26,6804.38,5,6.2,1
+CUST0320,24,Female,Hyderabad,17-02-2023,44,One year,DSL,UPI,576.59,24654.1,2,6.2,0
+CUST0321,47,Male,Chennai,19-11-2022,47,Two year,Fiber,Net banking,889.7,,2,7,0
+CUST0322,36,Male,Mumbai,24-12-2022,45,One year,DSL,Credit card,523.8,23423.12,2,7.9,0
+CUST0323,52,Female,Mumbai,30-07-2025,14,Month-to-month,Fiber,Credit card,822.41,12012.99,2,6.3,0
+CUST0324,47,Male,Mumbai,01-10-2024,24,One year,DSL,UPI,720.54,16667.52,1,1.4,0
+CUST0325,60,Male,Mumbai,01-06-2023,40,Month-to-month,Fiber,UPI,821.81,31614,5,8.3,1
+CUST0326,47,Female,Delhi,06-05-2025,17,Month-to-month,DSL,Credit card,686.27,11163.7,4,5.1,1
+CUST0327,19,Female,Chennai,21-11-2024,22,Month-to-month,Fiber,Net banking,865.08,19536.14,3,4.5,0
+CUST0328,37,Male,Chennai,23-04-2025,17,Month-to-month,DSL,UPI,597.95,10455.8,1,4.6,0
+CUST0329,24,Male,Delhi,20-04-2024,29,Month-to-month,Fiber,Debit card,944.95,27938.95,3,5.3,0
+CUST0330,32,Female,Bengaluru,09-06-2024,28,Month-to-month,None,Debit card,252.12,6744.01,5,4.2,0
+CUST0331,56,Male,Hyderabad,31-10-2020,72,Month-to-month,Fiber,UPI,945.43,69590.91,2,,0
+CUST0332,46,Female,Chennai,26-05-2023,40,Month-to-month,DSL,UPI,436.29,17361.95,4,4.4,1
+CUST0333,30,Female,Pune,23-11-2025,10,One year,Fiber,UPI,935.18,9031.87,1,7.6,0
+CUST0334,26,Female,Delhi,03-12-2025,10,Two year,DSL,Credit card,402.52,3942.73,3,9.6,0
+CUST0335,38,Male,Hyderabad,02-02-2023,44,Month-to-month,DSL,Credit card,581.85,25604.34,1,8.1,1
+CUST0336,23,Female,Mumbai,30-05-2024,28,One year,Fiber,Credit card,968.34,26651.65,2,8.3,0
+CUST0337,30,Male,Delhi,03-10-2020,72,Month-to-month,Fiber,UPI,949.78,71596.5,4,4.9,1
+CUST0338,42,Female,Chennai,03-10-2020,72,Month-to-month,Fiber,Debit card,796.13,57176.58,1,6.8,0
+CUST0339,52,Male,Chennai,20-08-2025,13,Month-to-month,Fiber,Credit card,806.43,10349.56,0,7.8,0
+CUST0340,45,Male,Chennai,11-12-2023,34,Month-to-month,None,Credit card,244.91,8471.13,4,4.4,1
+CUST0341,18,Female,Hyderabad,13-10-2025,11,Month-to-month,Fiber,Credit card,914.9,10215.41,2,5.5,1
+CUST0342,42,Male,Mumbai,12-02-2023,44,Month-to-month,Fiber,UPI,737.45,,6,6.4,1
+CUST0343,39,Female,Mumbai,06-10-2020,72,Month-to-month,None,Debit card,298.94,21778.68,4,7.6,0
+CUST0344,43,Female,Delhi,25-02-2024,31,Month-to-month,Fiber,UPI,924.91,27937.54,2,6.4,1
+CUST0345,57,Male,Delhi,28-01-2025,20,Month-to-month,Fiber,UPI,877.36,17328.27,2,4.1,1
+CUST0346,18,Male,Delhi,17-09-2023,36,Month-to-month,DSL,UPI,642.03,23590.02,6,4.4,1
+CUST0347,31,Female,Bengaluru,07-08-2022,50,Month-to-month,None,Credit card,317.9,15986.22,2,3.7,0
+CUST0348,45,Male,Mumbai,11-08-2022,50,Month-to-month,DSL,Credit card,556.67,27467.92,0,7.1,0
+CUST0349,19,Male,Bengaluru,02-02-2025,20,Month-to-month,DSL,UPI,445.1,8605.93,3,6.4,1
+CUST0350,56,Male,Mumbai,19-04-2025,17,Month-to-month,None,Net banking,310.67,5284.29,3,5.5,1
+CUST0351,42,Male,Mumbai,05-02-2024,32,Month-to-month,Fiber,Debit card,823.75,25883.85,6,5.3,1
+CUST0352,48,Female,Pune,04-01-2025,21,Month-to-month,None,UPI,253.73,5548.35,4,6.4,1
+CUST0353,31,Male,Pune,23-10-2021,60,Two year,DSL,Debit card,638.33,38431.35,0,7.5,0
+CUST0354,48,Female,Hyderabad,20-12-2024,21,Month-to-month,None,UPI,413.39,8998.89,2,4.1,0
+CUST0355,51,Male,Delhi,16-04-2024,29,Month-to-month,Fiber,Net banking,896.96,25726.18,2,5.8,0
+CUST0356,41,Female,Mumbai,08-11-2023,35,Month-to-month,Fiber,UPI,944.33,34133.78,3,6.7,1
+CUST0357,41,Male,Bengaluru,27-01-2026,8,Two year,DSL,UPI,484.44,3703.65,1,9.5,0
+CUST0358,41,Male,Delhi,21-03-2025,18,One year,DSL,Credit card,619.64,10928.35,3,5.5,1
+CUST0359,28,Female,Pune,27-10-2020,72,One year,DSL,UPI,595.21,41047.39,1,7.6,0
+CUST0360,36,Male,Mumbai,19-09-2022,49,Two year,None,Debit card,398.34,18604.5,0,8.6,0
+CUST0361,36,Male,Pune,20-12-2024,21,Month-to-month,DSL,Credit card,556.76,,1,,1
+CUST0362,43,Female,Bengaluru,03-02-2023,44,Two year,Fiber,UPI,880.67,39589.84,0,9.1,0
+CUST0363,50,Male,Mumbai,25-11-2021,59,Month-to-month,Fiber,Credit card,984.71,58824.75,5,7.4,0
+CUST0364,25,Male,Pune,03-10-2024,24,One year,Fiber,Net banking,892.64,21492.97,1,9.1,0
+CUST0365,36,Male,Pune,15-11-2022,47,Month-to-month,Fiber,Debit card,811.29,38395.84,6,5.7,0
+CUST0366,56,Female,Delhi,28-02-2023,43,Month-to-month,Fiber,Credit card,1104.13,48136.06,6,9.1,0
+CUST0367,29,Female,Pune,16-10-2025,11,Two year,DSL,UPI,513.71,5835.35,0,5.9,0
+CUST0368,28,Female,Hyderabad,18-09-2024,24,Month-to-month,DSL,UPI,594.82,14414,2,10,0
+CUST0369,40,Female,Pune,29-10-2020,72,Two year,DSL,Net banking,627.74,46320.8,4,7,0
+CUST0370,48,Male,Bengaluru,06-10-2020,72,Month-to-month,Fiber,Debit card,921.41,64888.5,2,8.7,0
+CUST0371,38,Male,Delhi,15-09-2022,49,One year,DSL,Credit card,584.82,30022.4,3,5.4,0
+CUST0372,54,Male,Delhi,09-04-2025,17,Two year,DSL,Net banking,585.22,9483.04,2,7.8,1
+CUST0373,48,Male,Pune,06-06-2026,3,Month-to-month,None,UPI,281.21,834.06,2,8.9,1
+CUST0374,48,Male,Hyderabad,25-05-2025,16,Two year,DSL,Debit card,510.73,8483.88,0,5,0
+CUST0375,45,Female,Hyderabad,11-12-2025,9,One year,DSL,UPI,772.02,6726.2,2,6,1
+CUST0376,66,Female,Pune,11-10-2020,72,One year,DSL,UPI,582.4,40428.83,1,2.8,0
+CUST0377,36,Female,Pune,10-04-2026,5,Month-to-month,DSL,Credit card,647.75,3195.17,1,6.3,0
+CUST0378,18,Female,Chennai,04-11-2025,11,Month-to-month,None,UPI,273.23,2983.95,4,4.1,1
+CUST0379,57,Female,Delhi,11-02-2024,32,One year,Fiber,Net banking,871.62,29100.66,3,5.6,1
+CUST0380,33,Male,Pune,16-05-2024,28,Month-to-month,Fiber,UPI,863.56,,4,10,1
+CUST0381,39,Female,Pune,07-11-2020,71,Month-to-month,Fiber,Debit card,776.01,54898.86,4,8.7,0
+CUST0382,54,Female,Bengaluru,01-05-2023,41,Month-to-month,DSL,Debit card,587.15,25211.75,0,4.4,0
+CUST0383,19,Male,Bengaluru,01-09-2024,25,Two year,DSL,Debit card,567.44,14387.84,3,7,0
+CUST0384,23,Male,Delhi,14-09-2021,61,Month-to-month,DSL,Net banking,693.72,43898.13,2,7.7,0
+CUST0385,19,Female,Chennai,28-12-2024,21,One year,Fiber,Credit card,804.26,16460.56,1,6,1
+CUST0386,28,Male,Delhi,18-10-2020,72,Two year,Fiber,UPI,853.83,61407.92,1,7,0
+CUST0387,,Female,Mumbai,19-07-2025,14,Month-to-month,None,UPI,228.12,3043.49,6,5.4,1
+CUST0388,44,Female,Delhi,20-06-2024,27,Month-to-month,Fiber,UPI,1015.4,26069.36,3,3.5,1
+CUST0389,41,Male,Mumbai,22-05-2026,4,One year,None,Net banking,230.45,940.74,0,5.1,0
+CUST0390,21,Male,Mumbai,28-06-2022,51,Month-to-month,Fiber,Credit card,944.98,46354.39,3,6.3,0
+CUST0391,18,Male,Pune,12-03-2024,31,One year,DSL,UPI,677.61,21106.34,0,7.2,0
+CUST0392,39,Male,Mumbai,07-10-2020,72,One year,DSL,UPI,588.31,43188.57,1,5.4,0
+CUST0393,32,Male,Bengaluru,20-10-2024,23,One year,DSL,Credit card,489.86,10739.76,1,,0
+CUST0394,44,Female,Pune,18-01-2026,8,Month-to-month,Fiber,Debit card,790.87,6294.53,4,5.4,1
+CUST0395,46,Male,Delhi,06-08-2023,38,One year,None,UPI,368.78,14271.7,1,8.2,1
+CUST0396,40,Male,Bengaluru,28-03-2025,18,One year,DSL,Debit card,499.15,9334.86,0,6.9,0
+CUST0397,47,Male,Bengaluru,10-12-2022,46,Month-to-month,DSL,Credit card,631.36,28459.47,4,8.5,1
+CUST0398,41,Female,Bengaluru,09-07-2025,14,One year,DSL,Debit card,609.15,8932.52,0,5.7,0
+CUST0399,44,Male,Hyderabad,29-04-2021,66,Two year,Fiber,UPI,930.17,,0,7.3,0
+CUST0400,30,Male,Bengaluru,24-04-2024,29,One year,DSL,Credit card,637.73,18772.76,4,5,0
+CUST0401,36,Female,Pune,12-08-2024,25,Month-to-month,Fiber,UPI,825.31,20409.76,2,7.4,1
+CUST0402,40,Male,Delhi,12-07-2021,63,Month-to-month,Fiber,UPI,821.96,52876.68,3,4.5,0
+CUST0403,48,Male,Bengaluru,04-07-2022,51,Month-to-month,DSL,Debit card,657.19,34576.47,1,10,0
+CUST0404,33,Male,Mumbai,21-05-2025,16,Month-to-month,DSL,Credit card,549.65,8621.41,3,2.9,1
+CUST0405,44,Male,Pune,07-08-2022,50,Month-to-month,Fiber,UPI,679.99,35675.1,3,9,0
+CUST0406,35,Male,Mumbai,31-01-2023,44,Two year,Fiber,Net banking,951.9,43595.05,1,6.8,0
+CUST0407,37,Female,Delhi,15-07-2024,26,Month-to-month,Fiber,UPI,817.1,21213.8,1,7.6,0
+CUST0408,48,Male,Mumbai,30-09-2022,48,Two year,Fiber,Credit card,937.37,45996.36,2,8.7,0
+CUST0409,18,Male,Pune,04-04-2021,66,Month-to-month,DSL,Net banking,711.43,47067.11,2,7.8,0
+CUST0410,22,Male,Hyderabad,26-06-2024,27,Month-to-month,Fiber,Credit card,901.34,24971.19,1,5.3,0
+CUST0411,20,Female,Chennai,19-06-2024,27,Month-to-month,None,Debit card,379.66,10586,3,7,0
+CUST0412,18,Female,Pune,16-07-2024,26,Month-to-month,Fiber,Credit card,912.3,22588.89,3,9.3,0
+CUST0413,30,Male,Chennai,01-07-2025,15,One year,Fiber,Debit card,1026.99,14756.51,1,5.1,1
+CUST0414,47,Male,Pune,17-07-2024,26,Two year,None,Debit card,215.03,5499.35,1,10,0
+CUST0415,35,Male,Chennai,20-09-2024,24,Two year,Fiber,Debit card,899.34,22485.54,1,7.3,0
+CUST0416,40,Male,Chennai,27-10-2024,23,Month-to-month,Fiber,UPI,953.85,21715.38,2,5.5,1
+CUST0417,51,Male,Pune,17-10-2024,23,One year,None,Debit card,284.77,6803.52,1,5,0
+CUST0418,54,Male,Bengaluru,30-10-2025,11,Month-to-month,None,UPI,392.18,4297.77,4,5.2,1
+CUST0419,37,Female,Chennai,04-04-2022,54,Two year,DSL,Net banking,565.44,29889.05,2,2.8,0
+CUST0420,54,Male,Chennai,22-03-2025,18,Month-to-month,Fiber,UPI,1065.55,19948.33,4,4.9,1
+CUST0421,39,Male,Chennai,02-02-2021,68,Month-to-month,DSL,UPI,769.78,52662.62,4,,0
+CUST0422,28,Male,Delhi,18-08-2025,13,Month-to-month,None,Net banking,322.57,4134.91,2,4.4,1
+CUST0423,31,Female,Pune,16-10-2020,72,Month-to-month,None,UPI,344.21,23654.02,2,7.6,0
+CUST0424,20,Female,Hyderabad,24-12-2024,21,Month-to-month,Fiber,UPI,995.33,20088.71,0,6.6,1
+CUST0425,27,Male,Bengaluru,07-07-2022,51,Two year,Fiber,Debit card,805.02,39575.17,3,4.8,0
+CUST0426,34,Male,Bengaluru,17-02-2024,31,One year,Fiber,UPI,795.04,24313.11,1,6.1,0
+CUST0427,,Female,Mumbai,11-11-2025,10,Two year,Fiber,UPI,1000.51,10112.49,2,6.9,1
+CUST0428,59,Female,Delhi,02-12-2025,10,Month-to-month,DSL,Credit card,621.92,6099.54,3,,1
+CUST0429,21,Male,Pune,23-04-2025,17,One year,Fiber,UPI,881.88,14340.6,4,4.3,1
+CUST0430,43,Female,Bengaluru,30-01-2025,20,Month-to-month,Fiber,UPI,900.89,17594.04,3,6.2,0
+CUST0431,26,Female,Pune,08-07-2024,27,Month-to-month,Fiber,UPI,709.12,18971.4,1,6.6,1
+CUST0432,44,Male,Bengaluru,21-10-2023,35,Month-to-month,DSL,UPI,584.76,21474.11,4,3.5,1
+CUST0433,36,Female,Hyderabad,16-08-2024,25,Month-to-month,Fiber,UPI,839.76,20769.34,1,6.1,1
+CUST0434,18,Male,Delhi,17-11-2023,34,One year,Fiber,UPI,973.45,31737.65,0,8,1
+CUST0435,49,Male,Delhi,06-08-2023,38,Month-to-month,Fiber,Credit card,979.6,37526.75,1,7.7,0
+CUST0436,31,Male,Mumbai,28-09-2024,24,Month-to-month,None,Credit card,346.13,8655.72,2,5.9,0
+CUST0437,32,Male,Chennai,25-02-2023,43,One year,Fiber,UPI,931.64,41209.04,0,8.2,0
+CUST0438,25,Female,Bengaluru,17-08-2022,50,Month-to-month,DSL,UPI,480.21,24817.78,1,4.9,0
+CUST0439,30,Male,Mumbai,16-08-2023,38,Two year,Fiber,Net banking,947.25,37536.94,4,3.9,1
+CUST0440,43,Male,Pune,06-06-2023,40,Month-to-month,Fiber,Credit card,950.35,38533.06,6,4.4,1
+CUST0441,36,Male,Pune,26-01-2024,32,Two year,Fiber,Credit card,999.62,33570.99,2,9,0
+CUST0442,42,Female,Delhi,12-12-2021,58,One year,Fiber,Credit card,1069.46,59133.69,1,6.9,0
+CUST0443,42,Female,Chennai,06-06-2024,28,One year,Fiber,UPI,764.6,22125.65,0,6.5,0
+CUST0444,54,Female,Bengaluru,23-04-2025,17,One year,DSL,Debit card,568.92,10016.93,3,8.7,0
+CUST0445,34,Male,Pune,15-05-2024,28,Two year,DSL,Net banking,540.62,15768.13,0,6.5,0
+CUST0446,20,Female,Hyderabad,26-11-2025,10,One year,Fiber,Net banking,913.8,9118.05,2,10,0
+CUST0447,51,Female,Mumbai,22-12-2025,9,Month-to-month,Fiber,UPI,901.07,8342.99,1,5.7,1
+CUST0448,34,Female,Hyderabad,13-08-2022,50,Month-to-month,DSL,UPI,581.27,28177.3,6,3.1,1
+CUST0449,51,Male,Mumbai,21-01-2021,69,One year,Fiber,UPI,982.21,68471.43,5,5,1
+CUST0450,43,Female,Bengaluru,20-11-2024,22,Month-to-month,Fiber,UPI,811.89,17609.1,1,6.2,1
+CUST0451,36,Male,Chennai,11-08-2022,50,Month-to-month,Fiber,UPI,816.71,41228.23,7,3.1,1
+CUST0452,42,Male,Mumbai,15-04-2026,5,Month-to-month,Fiber,Credit card,818.06,4162.11,2,10,0
+CUST0453,61,Male,Bengaluru,18-07-2023,39,Month-to-month,DSL,UPI,571.17,21934.97,3,6.5,0
+CUST0454,63,Male,Chennai,24-05-2024,28,Month-to-month,None,Net banking,201.71,5487.61,4,6.4,0
+CUST0455,39,Male,Pune,28-10-2020,72,One year,None,UPI,296.11,20939.76,3,5.1,0
+CUST0456,40,Male,Pune,30-08-2024,25,One year,None,UPI,286.76,7286.54,0,6,0
+CUST0457,51,Male,Bengaluru,09-09-2025,12,Two year,Fiber,Net banking,837.08,10222.63,1,8.5,0
+CUST0458,28,Female,Mumbai,23-01-2026,8,Month-to-month,Fiber,Debit card,969.9,7946.44,3,2.9,1
+CUST0459,42,Male,Pune,23-05-2024,28,Month-to-month,Fiber,UPI,895.24,24130.57,1,4.6,1
+CUST0460,38,Female,Delhi,03-02-2024,32,One year,Fiber,Credit card,985.01,32524.3,1,6.2,0
+CUST0461,42,Female,Bengaluru,13-09-2024,24,Month-to-month,Fiber,UPI,884.4,21624.95,2,8.7,1
+CUST0462,28,Female,Mumbai,25-06-2022,51,One year,Fiber,UPI,898.06,43650.72,3,5.3,0
+CUST0463,19,Female,Mumbai,01-06-2021,64,Month-to-month,DSL,Credit card,554.98,34934.78,3,6.7,0
+CUST0464,18,Male,Hyderabad,28-11-2024,22,Two year,Fiber,UPI,899.44,19721.81,4,5.6,0
+CUST0465,25,Female,Delhi,25-03-2026,6,Month-to-month,Fiber,Credit card,956.98,5661.85,3,8.3,1
+CUST0466,32,Female,Hyderabad,27-11-2023,34,Two year,DSL,UPI,567.09,18543.4,2,3.4,0
+CUST0467,34,Male,Delhi,01-12-2021,58,One year,Fiber,Debit card,941.47,53007.22,3,7.3,0
+CUST0468,61,Male,Chennai,24-11-2024,22,Month-to-month,None,Debit card,234.98,4923.78,4,5.2,1
+CUST0469,51,Female,Bengaluru,27-05-2023,40,One year,Fiber,UPI,960.72,36865.04,0,8.7,0
+CUST0470,26,Male,Pune,09-10-2025,11,Month-to-month,DSL,UPI,553.61,5947.39,5,3.8,0
+CUST0471,42,Male,Hyderabad,23-11-2023,34,One year,Fiber,Credit card,968.13,33969.65,1,6.7,0
+CUST0472,33,Female,Delhi,07-06-2023,40,One year,DSL,Debit card,604.88,24259.65,3,5.8,0
+CUST0473,35,Female,Pune,08-12-2023,34,Month-to-month,Fiber,Debit card,1021.68,34474.85,5,3.4,1
+CUST0474,40,Male,Pune,18-10-2020,72,Month-to-month,Fiber,Debit card,807.67,59095.25,4,3.3,1
+CUST0475,45,Female,Bengaluru,12-01-2021,69,One year,DSL,Credit card,481.91,33389.82,1,5.6,0
+CUST0476,34,Male,Pune,25-12-2022,45,Month-to-month,Fiber,UPI,850.7,36870.88,4,5.8,1
+CUST0477,51,Female,Mumbai,16-03-2022,55,Two year,Fiber,Credit card,789.23,42203.62,0,5.6,0
+CUST0478,24,Female,Pune,10-01-2024,33,One year,None,UPI,199,6384.78,0,6.4,1
+CUST0479,38,Male,Delhi,03-07-2024,27,One year,Fiber,Debit card,949.72,25898.74,2,2.9,1
+CUST0480,69,Male,Mumbai,21-01-2025,20,Month-to-month,DSL,UPI,599.67,11947.37,2,5.6,0
+CUST0481,41,Female,Delhi,29-10-2025,11,One year,DSL,UPI,561.63,6108.48,0,8.8,0
+CUST0482,55,Male,Mumbai,19-11-2020,71,Two year,Fiber,Credit card,869.04,62051.31,1,7.9,0
+CUST0483,39,Male,Pune,24-10-2020,72,Month-to-month,DSL,Credit card,552.22,41629.01,2,6.1,1
+CUST0484,45,Male,Bengaluru,14-04-2024,29,Month-to-month,Fiber,Credit card,1032.03,29372.77,1,7.1,0
+CUST0485,37,Female,Mumbai,28-04-2024,29,Month-to-month,DSL,Credit card,541.16,15725.33,3,4.5,0
+CUST0486,36,Male,Bengaluru,29-03-2023,42,Month-to-month,Fiber,Net banking,794.23,33292.18,2,9.2,0
+CUST0487,29,Female,Pune,26-08-2024,25,One year,Fiber,Debit card,963.68,24613.94,1,10,0
+CUST0488,43,Female,Pune,05-10-2025,12,Month-to-month,Fiber,Net banking,882.74,10836.82,2,6.6,0
+CUST0489,28,Male,Mumbai,27-11-2025,10,One year,None,Credit card,463.1,4737.08,1,10,0
+CUST0490,,Female,Delhi,06-10-2020,72,Month-to-month,DSL,Credit card,557.9,38969.84,3,4.7,1
+CUST0491,51,Female,Mumbai,17-02-2026,7,Month-to-month,None,Credit card,367.68,2560.66,6,2.6,1
+CUST0492,42,Male,Hyderabad,25-10-2023,35,Month-to-month,DSL,Credit card,686.58,24778.06,3,4.7,1
+CUST0493,35,Female,Mumbai,10-02-2026,7,Two year,DSL,UPI,558.29,3861.73,0,6.6,0
+CUST0494,43,Male,Delhi,26-07-2024,26,One year,DSL,Credit card,540.57,14735.43,1,10,0
+CUST0495,34,Male,Delhi,22-11-2024,22,Month-to-month,None,UPI,359.31,7797.94,2,5.8,0
+CUST0496,49,Male,Pune,27-12-2025,9,One year,DSL,UPI,645.99,5812.55,1,,0
+CUST0497,18,Female,Delhi,13-03-2023,43,Month-to-month,Fiber,Net banking,787.15,33761.23,3,4.3,1
+CUST0498,34,Female,Mumbai,01-10-2025,12,Month-to-month,DSL,UPI,509.73,6076.18,3,8,0
+CUST0499,18,Male,Delhi,25-01-2026,8,Month-to-month,DSL,Credit card,397.09,3286.52,2,8.1,0
+CUST0500,20,Female,Pune,02-12-2022,46,Two year,Fiber,Credit card,947.63,42088.29,1,5.8,0
+CUST0501,54,Female,Hyderabad,12-11-2024,22,One year,Fiber,UPI,879.05,19469.96,1,3.3,0
+CUST0502,49,Female,Chennai,25-05-2025,16,One year,Fiber,Net banking,887.03,14360.81,1,4.6,0
+CUST0503,29,Female,Pune,02-11-2022,47,Month-to-month,DSL,UPI,464.68,22607.03,4,8.7,0
+CUST0504,20,Male,Bengaluru,10-10-2025,11,Month-to-month,Fiber,Net banking,812.15,9031.21,3,7.2,0
+CUST0505,18,Female,Bengaluru,14-03-2026,6,One year,DSL,Debit card,561.76,3525.61,0,7.1,1
+CUST0506,31,Male,Mumbai,20-08-2021,62,Month-to-month,Fiber,UPI,846.21,54417.6,2,9.7,0
+CUST0507,67,Male,Hyderabad,23-10-2020,72,Two year,DSL,UPI,609.43,43215.25,0,10,0
+CUST0508,43,Male,Bengaluru,22-08-2024,25,One year,Fiber,UPI,946.68,24518.79,5,5.2,1
+CUST0509,31,Female,Chennai,23-08-2026,1,Month-to-month,None,UPI,481.57,503.65,1,6.6,1
+CUST0510,44,Female,Chennai,03-09-2024,25,One year,DSL,UPI,598.4,14596.77,0,,1
+CUST0511,19,Male,Pune,04-09-2022,49,Two year,Fiber,Net banking,989.23,49006.48,1,6.1,0
+CUST0512,34,Male,Delhi,06-12-2021,58,Month-to-month,Fiber,UPI,833.6,47293.85,2,3.6,1
+CUST0513,39,Male,Delhi,28-09-2025,12,One year,Fiber,Debit card,766,9329.48,0,4.3,1
+CUST0514,37,Female,Pune,08-12-2024,22,Two year,Fiber,UPI,871.82,18400.65,0,3.9,0
+CUST0515,,Male,Mumbai,22-12-2023,33,Month-to-month,DSL,Net banking,472.18,15946.85,2,8.3,0
+CUST0516,42,Female,Chennai,09-11-2022,47,Two year,None,UPI,301.17,14041.5,0,4.2,0
+CUST0517,46,Male,Pune,31-01-2023,44,Month-to-month,DSL,Credit card,537.56,23859.14,2,,1
+CUST0518,30,Male,Delhi,13-06-2023,40,One year,DSL,Credit card,443.66,16904.98,2,5,0
+CUST0519,49,Female,Hyderabad,16-12-2021,58,One year,Fiber,UPI,1038.88,61432.67,0,10,0
+CUST0520,58,Male,Mumbai,24-06-2024,27,One year,DSL,Debit card,557,15032.97,0,6.3,0
+CUST0521,26,Male,Delhi,27-11-2020,71,Month-to-month,DSL,UPI,468.99,33715.35,4,2.8,1
+CUST0522,27,Male,Chennai,30-03-2025,18,One year,Fiber,Credit card,971.85,17170.84,0,9.3,0
+CUST0523,54,Female,Delhi,29-12-2022,45,Month-to-month,None,Credit card,241.71,10491.71,3,8.5,0
+CUST0524,36,Male,Pune,15-01-2025,20,Month-to-month,Fiber,Credit card,987.21,19616.71,5,3.6,1
+CUST0525,55,Male,Pune,01-08-2024,26,Month-to-month,DSL,UPI,541.33,14699.46,4,5,1
+CUST0526,33,Male,Chennai,10-05-2024,29,One year,None,UPI,256.73,7242.51,2,4.7,0
+CUST0527,55,Female,Mumbai,07-02-2025,20,Month-to-month,DSL,UPI,627.59,12772.51,3,5.7,1
+CUST0528,40,Female,Delhi,09-11-2021,59,Month-to-month,Fiber,UPI,947.46,53383.76,2,6.5,1
+CUST0529,41,Female,Pune,19-12-2024,21,Two year,DSL,UPI,661.48,14194.04,2,5.7,0
+CUST0530,57,Male,Delhi,26-05-2024,28,Month-to-month,Fiber,Net banking,2937.38,24345.08,1,3.4,0
+CUST0531,34,Female,Chennai,07-05-2023,41,Month-to-month,DSL,Credit card,642.29,26206.22,1,5.6,0
+CUST0532,27,Male,Delhi,31-10-2020,72,Month-to-month,Fiber,Credit card,3682.06,68181.04,1,7.9,0
+CUST0533,33,Female,Chennai,13-04-2023,42,Month-to-month,DSL,UPI,616.05,24872.36,1,6.3,1
+CUST0534,43,Female,Mumbai,12-05-2024,29,One year,None,UPI,288.59,8239.88,0,6.4,0
+CUST0535,19,Female,Delhi,20-04-2026,5,Month-to-month,Fiber,Credit card,784.38,3863.12,1,5,1
+CUST0536,46,Female,Hyderabad,01-09-2024,25,Month-to-month,Fiber,UPI,947.93,23750.64,3,4.9,1
+CUST0537,32,Female,Delhi,06-05-2025,17,Two year,DSL,UPI,603.37,10741.79,2,8.8,0
+CUST0538,52,Male,Mumbai,21-11-2024,22,Two year,Fiber,Credit card,866.91,19014.84,0,4.9,1
+CUST0539,18,Female,Hyderabad,27-01-2025,20,One year,Fiber,Credit card,1002.22,,0,8.3,1
+CUST0540,29,Female,Mumbai,21-04-2023,41,Two year,Fiber,Net banking,785.77,32092.72,0,7.1,0
+CUST0541,18,Female,Delhi,29-08-2024,25,Two year,Fiber,UPI,1031.52,24775.93,2,6.7,0
+CUST0542,28,Female,Chennai,04-08-2025,14,Month-to-month,DSL,Credit card,598.22,8149.08,3,4.6,1
+CUST0543,41,Male,Pune,02-07-2022,51,One year,DSL,UPI,625.4,31600.42,1,6,0
+CUST0544,36,Female,Mumbai,13-11-2025,10,One year,Fiber,UPI,868.4,8532.35,0,7,0
+CUST0545,35,Male,Pune,16-05-2024,28,Month-to-month,DSL,Debit card,466.63,13543.62,4,4.7,0
+CUST0546,36,Female,Mumbai,21-08-2024,25,Month-to-month,Fiber,UPI,888.83,22617.71,1,7.2,1
+CUST0547,40,Female,Pune,06-10-2023,36,Month-to-month,Fiber,Credit card,926.78,33625.35,6,5.7,1
+CUST0548,26,Male,Bengaluru,05-12-2021,58,One year,DSL,Credit card,654.1,37904.53,1,10,0
+CUST0549,46,Female,Pune,08-10-2020,72,One year,Fiber,UPI,884.16,63005.55,2,6.8,0
+CUST0550,46,Female,Bengaluru,28-04-2024,29,One year,DSL,Net banking,424.6,12451.55,1,3.2,0
+CUST0551,43,Female,Mumbai,15-04-2025,17,Month-to-month,None,Credit card,199,3256,2,8.4,0
+CUST0552,45,Male,Mumbai,09-05-2025,16,Month-to-month,DSL,Debit card,764.16,11813.95,3,5.6,0
+CUST0553,42,Male,Mumbai,16-05-2025,16,Month-to-month,DSL,Credit card,512.6,8040.12,1,10,0
+CUST0554,62,Female,Bengaluru,31-10-2023,35,Month-to-month,Fiber,Net banking,1014.16,34328.45,1,9.3,0
+CUST0555,37,Female,Delhi,19-05-2026,4,Two year,Fiber,UPI,825.27,3359.54,1,5.7,1
+CUST0556,34,Female,Mumbai,09-11-2025,10,Two year,Fiber,Credit card,885.4,8433.23,2,7.6,0
+CUST0557,29,Female,Hyderabad,20-10-2023,35,Two year,DSL,Debit card,650.02,21977.58,0,5.9,0
+CUST0558,26,Male,Delhi,16-06-2022,52,Two year,DSL,UPI,534.38,28906.52,0,,0
+CUST0559,23,Female,Pune,23-06-2022,52,Two year,Fiber,UPI,1027.38,56081.82,0,8.2,0
+CUST0560,27,Male,Chennai,20-03-2024,30,Month-to-month,Fiber,Net banking,906.06,27148.07,2,8.3,0
+CUST0561,37,Female,Mumbai,14-10-2022,48,Month-to-month,Fiber,Credit card,936.87,44948.94,1,8.3,0
+CUST0562,42,Female,Pune,27-10-2021,59,Month-to-month,DSL,Debit card,578.59,35070.11,2,6.4,0
+CUST0563,39,Female,Delhi,07-01-2025,21,Month-to-month,DSL,Credit card,652.7,13070.97,0,10,0
+CUST0564,29,Female,Pune,26-02-2022,55,Month-to-month,DSL,Debit card,726.3,39654.98,1,6,0
+CUST0565,49,Male,Mumbai,12-02-2026,7,Month-to-month,None,Net banking,289.5,1945.41,1,,0
+CUST0566,47,Male,Bengaluru,25-11-2025,10,Two year,Fiber,Credit card,1038.38,10280.92,1,4.1,0
+CUST0567,36,Male,Pune,08-12-2024,22,Month-to-month,DSL,UPI,551.07,12710.1,2,9,1
+CUST0568,30,Female,Hyderabad,09-03-2026,6,Two year,DSL,UPI,661.13,4067.39,1,6.5,0
+CUST0569,45,Male,Chennai,16-05-2023,41,One year,Fiber,Credit card,939.13,40371.97,3,6.2,0
+CUST0570,40,Female,Bengaluru,07-03-2025,19,One year,None,Debit card,214.51,4175.97,2,5.3,0
+CUST0571,21,Male,Bengaluru,19-07-2024,26,One year,Fiber,Credit card,917.1,24102.38,1,5.8,1
+CUST0572,37,Male,Bengaluru,22-07-2024,26,Month-to-month,DSL,UPI,600.59,16012.31,9,2.4,1
+CUST0573,41,Male,Chennai,05-01-2025,21,One year,DSL,UPI,531.74,11344.19,1,7.5,0
+CUST0574,27,Male,Mumbai,27-06-2025,15,Month-to-month,None,Credit card,328.64,4911.89,1,6.5,1
+CUST0575,40,Male,Pune,30-05-2023,40,Two year,DSL,Debit card,611.7,23960.4,0,7.8,0
+CUST0576,21,Male,Delhi,20-03-2025,18,Month-to-month,Fiber,UPI,894.19,16127.9,3,6.6,1
+CUST0577,54,Female,Delhi,01-08-2024,26,Month-to-month,DSL,Credit card,594.51,15083.96,1,5.9,1
+CUST0578,53,Female,Pune,04-10-2023,36,One year,DSL,Debit card,592.8,21312.37,1,4,0
+CUST0579,35,Female,Bengaluru,23-12-2021,58,One year,DSL,Net banking,570.58,31922.57,1,3.9,0
+CUST0580,42,Male,Pune,23-02-2022,56,Month-to-month,DSL,UPI,611.19,34450.47,2,10,0
+CUST0581,18,Female,Chennai,09-01-2025,20,One year,Fiber,Net banking,848.49,16537.55,1,9.3,0
+CUST0582,24,Female,Mumbai,01-07-2025,15,Month-to-month,DSL,Credit card,812.54,11936.55,2,8.7,0
+CUST0583,34,Female,Pune,02-04-2021,66,One year,None,Debit card,199,13132.72,4,4.4,0
+CUST0584,25,Male,Pune,07-04-2025,18,Month-to-month,Fiber,UPI,853.22,14839.67,1,6.7,0
+CUST0585,47,Female,Mumbai,19-06-2023,39,Month-to-month,DSL,Credit card,559.54,22831.07,0,5.5,0
+CUST0586,62,Female,Mumbai,22-03-2026,6,Month-to-month,None,Credit card,463.24,2764.69,2,3.9,1
+CUST0587,24,Male,Pune,09-05-2026,4,Month-to-month,DSL,UPI,494.39,1948.35,2,5.2,0
+CUST0588,28,Male,Mumbai,18-04-2024,29,Month-to-month,None,Credit card,334.07,9231.91,1,9,0
+CUST0589,41,Female,Pune,30-09-2024,24,Month-to-month,Fiber,Credit card,919.87,22834.68,3,7.5,0
+CUST0590,57,Male,Mumbai,28-11-2022,46,Month-to-month,None,Credit card,326.69,15216.84,2,4.6,0
+CUST0591,23,Male,Mumbai,28-05-2025,16,Month-to-month,Fiber,UPI,998.91,15848.95,1,6.1,1
+CUST0592,41,Female,Mumbai,22-11-2023,34,Month-to-month,DSL,Credit card,697.27,23103.91,1,8,1
+CUST0593,60,Male,Mumbai,21-01-2023,44,Month-to-month,DSL,UPI,563.92,25420.73,1,5.6,0
+CUST0594,18,Male,Pune,14-05-2025,16,One year,DSL,Net banking,615.52,10287.04,1,6.8,0
+CUST0595,23,Male,Pune,18-11-2024,22,Two year,None,Net banking,199,4325.82,0,7.7,0
+CUST0596,33,Female,Pune,24-10-2025,11,Month-to-month,DSL,UPI,607.93,6443.06,4,6.3,1
+CUST0597,32,Male,Bengaluru,17-11-2022,47,Two year,DSL,UPI,536.48,24229.16,1,7.1,0
+CUST0598,48,Female,Chennai,03-06-2023,40,Month-to-month,Fiber,UPI,885.09,33655.94,3,4.8,1
+CUST0599,41,Male,Chennai,16-04-2023,42,Month-to-month,DSL,Credit card,465.17,20013.76,1,5.7,1
+CUST0600,18,Female,Delhi,25-10-2024,23,One year,DSL,Net banking,632.39,15245.16,1,4.6,0
+CUST0601,44,Female,Delhi,23-05-2023,40,One year,Fiber,Credit card,764.27,32077.38,0,4.2,0
+CUST0602,31,Female,Mumbai,07-09-2024,25,Two year,DSL,UPI,611.86,15731.22,1,6.4,0
+CUST0603,53,Female,Bengaluru,04-10-2020,72,Month-to-month,None,UPI,201.88,14044.33,3,7.4,0
+CUST0604,30,Male,Bengaluru,26-05-2024,28,One year,DSL,UPI,532.03,15608.48,1,4.2,0
+CUST0605,30,Female,Hyderabad,23-05-2022,53,Month-to-month,DSL,Debit card,692.38,36064.28,2,6.8,1
+CUST0606,44,Female,Hyderabad,19-09-2024,24,Month-to-month,Fiber,Credit card,947.03,22350.56,2,7.7,0
+CUST0607,47,Female,Delhi,28-06-2021,64,Month-to-month,DSL,Credit card,691.94,45113.77,3,2.6,1
+CUST0608,43,Female,Bengaluru,19-06-2025,15,Two year,Fiber,UPI,1024.78,14678.51,4,5.1,0
+CUST0609,18,Female,Hyderabad,01-09-2023,37,Month-to-month,Fiber,Net banking,838.17,32022.58,3,8.9,0
+CUST0610,44,Male,Mumbai,16-04-2025,17,Two year,DSL,UPI,719.92,12847.26,0,8,0
+CUST0611,26,Male,Chennai,03-01-2024,33,One year,Fiber,Debit card,782.76,26541.61,1,3.3,0
+CUST0612,41,Male,Pune,05-04-2025,18,One year,Fiber,Net banking,959.69,17761,1,7.8,1
+CUST0613,21,Male,Chennai,01-06-2024,28,One year,DSL,Credit card,560.53,15522.69,1,5.3,0
+CUST0614,43,Female,Bengaluru,16-01-2025,20,Two year,Fiber,Net banking,825.58,15794.87,0,8.2,0
+CUST0615,28,Female,Pune,20-02-2023,43,Month-to-month,Fiber,UPI,949.16,42008.37,0,5.8,1
+CUST0616,23,Male,Bengaluru,11-08-2023,38,Month-to-month,Fiber,Debit card,975.6,37432.99,8,4.1,1
+CUST0617,47,Male,Pune,28-04-2025,17,One year,DSL,UPI,673.22,11913.22,0,6,0
+CUST0618,41,Female,Bengaluru,12-05-2025,16,Month-to-month,Fiber,Credit card,917.19,14111.46,1,6.7,1
+CUST0619,31,Female,Hyderabad,28-07-2025,14,Month-to-month,DSL,UPI,610.56,8381.26,0,6,1
+CUST0620,55,Female,Bengaluru,28-09-2025,12,Month-to-month,DSL,UPI,642.15,7598.42,3,5.5,1
+CUST0621,33,Female,Hyderabad,26-12-2022,45,Month-to-month,Fiber,UPI,924.3,42355.82,2,4.2,1
+CUST0622,38,Female,Pune,22-08-2025,13,Month-to-month,None,UPI,343.31,4591.45,4,6.5,1
+CUST0623,41,Female,Mumbai,29-10-2023,35,Month-to-month,Fiber,Credit card,916.32,33549.75,3,6.3,0
+CUST0624,31,Male,Mumbai,23-02-2025,19,Two year,DSL,Credit card,667.42,12421.54,0,4.1,0
+CUST0625,44,Female,Pune,05-06-2022,52,Month-to-month,Fiber,UPI,769.82,40005.17,1,8.4,1
+CUST0626,,Male,Delhi,23-10-2020,72,Two year,DSL,Net banking,589.5,40444.72,0,6.7,0
+CUST0627,33,Male,Mumbai,10-08-2026,1,Two year,Fiber,Net banking,789.29,769.79,0,7.3,1
+CUST0628,54,Male,Mumbai,27-06-2025,15,Month-to-month,None,UPI,322.14,,3,7.3,0
+CUST0629,26,Male,Delhi,22-02-2025,19,One year,Fiber,Credit card,1031.35,19779.47,2,6.9,1
+CUST0630,18,Male,Hyderabad,05-10-2024,24,One year,DSL,Credit card,562.07,13450.35,0,9.1,0
+CUST0631,57,Female,Mumbai,09-11-2024,23,One year,Fiber,Debit card,910.18,20650.43,1,6.1,0
+CUST0632,69,Female,Hyderabad,17-12-2025,9,Month-to-month,Fiber,UPI,960.52,8751.94,1,8.5,1
+CUST0633,33,Male,Delhi,27-10-2020,72,Month-to-month,Fiber,Debit card,734.58,54627.8,1,6.9,0
+CUST0634,18,Female,Mumbai,13-09-2024,24,Month-to-month,DSL,UPI,558.23,13051.44,3,6.9,1
+CUST0635,34,Male,Delhi,20-07-2023,38,One year,DSL,UPI,629.16,23532.43,2,7,0
+CUST0636,35,Male,Mumbai,09-07-2023,39,Two year,None,Debit card,199,7920.04,1,8.9,0
+CUST0637,36,Female,Mumbai,25-01-2026,8,One year,DSL,Credit card,521.86,4290.92,2,7.6,0
+CUST0638,25,Male,Delhi,24-12-2024,21,One year,None,Debit card,388.07,8414.65,0,6.2,0
+CUST0639,45,Female,Pune,13-01-2023,45,Two year,Fiber,UPI,980.24,42828.64,0,5.8,0
+CUST0640,44,Female,Mumbai,04-04-2021,66,One year,DSL,UPI,629.95,41739.96,0,6.9,0
+CUST0641,20,Male,Delhi,06-12-2024,22,Month-to-month,DSL,UPI,670.58,15342.89,0,5.6,0
+CUST0642,46,Male,Mumbai,21-12-2025,9,Two year,DSL,UPI,617.21,5494.87,0,5.1,0
+CUST0643,63,Female,Hyderabad,03-04-2025,18,Month-to-month,None,UPI,344.43,6156.27,5,1.4,0
+CUST0644,40,Female,Mumbai,15-12-2024,21,Month-to-month,DSL,Credit card,574.75,12654.92,5,2.5,1
+CUST0645,34,Female,Chennai,03-02-2025,20,Month-to-month,None,Credit card,309.27,5946.06,1,,0
+CUST0646,36,Male,Hyderabad,24-07-2025,14,Two year,DSL,Debit card,549.41,7849.88,0,5.8,0
+CUST0647,45,Male,Chennai,08-01-2026,8,Month-to-month,Fiber,UPI,1001.08,8289.09,0,10,1
+CUST0648,18,Female,Hyderabad,22-10-2025,11,Month-to-month,DSL,UPI,721.72,7661.69,2,7,1
+CUST0649,40,Female,Pune,03-04-2025,18,Month-to-month,DSL,Debit card,710.39,13061.24,0,6.9,0
+CUST0650,33,Male,Delhi,15-01-2023,45,Month-to-month,None,UPI,267.35,11994.34,4,2.9,0
+CUST0651,60,Female,Pune,05-02-2022,56,Month-to-month,DSL,Net banking,523.7,30362.13,3,6,0
+CUST0652,,Female,Hyderabad,10-04-2024,30,One year,Fiber,UPI,1002.16,31289.8,1,10,1
+CUST0653,58,Male,Delhi,25-10-2025,11,Two year,Fiber,Credit card,943.51,10765.2,1,9.5,0
+CUST0654,25,Male,Mumbai,19-02-2025,19,Month-to-month,Fiber,Net banking,926.29,16832.85,3,6.4,1
+CUST0655,45,Female,Chennai,22-05-2026,4,Month-to-month,DSL,Credit card,549.31,2253.68,3,3.9,1
+CUST0656,42,Female,Pune,06-03-2021,67,Month-to-month,Fiber,Credit card,934.05,65219.33,2,4.6,0
+CUST0657,28,Male,Delhi,18-05-2025,16,Month-to-month,DSL,Debit card,513.18,8310.52,0,5.5,1
+CUST0658,40,Male,Bengaluru,12-10-2023,36,One year,DSL,UPI,650.72,23662.23,1,9,0
+CUST0659,53,Female,Pune,31-03-2022,54,One year,DSL,Debit card,710.31,36611.53,2,9.2,0
+CUST0660,34,Male,Delhi,04-10-2020,72,One year,Fiber,Net banking,1030.48,76836.13,3,6.3,0
+CUST0661,18,Female,Hyderabad,15-10-2022,48,Month-to-month,DSL,Net banking,656.68,30090.87,0,6.5,0
+CUST0662,38,Female,Pune,28-01-2025,20,One year,Fiber,Credit card,789.44,15494.35,0,9.8,0
+CUST0663,27,Female,Delhi,07-07-2023,39,Month-to-month,None,UPI,315.79,12840.29,1,4.9,0
+CUST0664,34,Male,Mumbai,19-10-2020,72,Month-to-month,Fiber,Debit card,1071.17,80592.87,2,6.4,1
+CUST0665,37,Male,Bengaluru,25-05-2025,16,Two year,Fiber,Credit card,830.51,13941.81,3,6.8,1
+CUST0666,18,Male,Pune,07-01-2026,8,One year,Fiber,UPI,895.27,7145.26,2,4.7,1
+CUST0667,19,Female,Chennai,18-07-2025,14,Two year,DSL,UPI,713.08,9661.09,2,5.2,0
+CUST0668,44,Male,Hyderabad,22-07-2023,38,Two year,Fiber,UPI,949.37,36032.57,0,5.7,0
+CUST0669,32,Male,Pune,29-12-2024,21,One year,DSL,Credit card,798.41,16099.82,1,9.2,0
+CUST0670,18,Male,Mumbai,27-07-2024,26,Two year,DSL,UPI,541.37,14599.99,2,9.7,0
+CUST0671,47,Male,Delhi,16-04-2023,42,Month-to-month,DSL,UPI,520.82,22006.86,2,6.5,1
+CUST0672,41,Male,Bengaluru,29-07-2025,14,Month-to-month,Fiber,UPI,997.93,13837.61,6,4.4,1
+CUST0673,29,Female,Delhi,24-08-2024,25,Month-to-month,Fiber,Net banking,804.33,19262.76,1,5.6,0
+CUST0674,22,Female,Pune,03-04-2025,18,Month-to-month,Fiber,UPI,884.26,15765.85,4,5.6,1
+CUST0675,48,Male,Pune,03-10-2020,72,Month-to-month,Fiber,UPI,894.75,66781.08,4,4.6,0
+CUST0676,42,Male,Chennai,12-11-2022,47,Month-to-month,DSL,Credit card,682.88,32748.2,1,6.5,1
+CUST0677,67,Male,Delhi,04-01-2025,21,One year,Fiber,UPI,949.14,19099.69,2,,0
+CUST0678,43,Female,Hyderabad,15-01-2025,20,One year,Fiber,Net banking,936.57,18094.36,1,5.9,0
+CUST0679,43,Male,Delhi,29-10-2020,72,One year,Fiber,Net banking,867.81,61809.44,3,5.6,1
+CUST0680,36,Female,Chennai,22-10-2020,72,Month-to-month,DSL,Credit card,697.2,48197.37,1,6.3,0
+CUST0681,48,Male,Pune,11-09-2023,37,One year,Fiber,Credit card,1222.07,47179.18,0,6.4,0
+CUST0682,46,Male,Pune,22-06-2024,27,Month-to-month,DSL,UPI,655.3,17962.55,3,5.2,1
+CUST0683,53,Female,Chennai,09-11-2025,10,Month-to-month,Fiber,UPI,907.97,8711.81,2,7.7,0
+CUST0684,,Female,Chennai,01-08-2025,14,Month-to-month,None,UPI,199,2866.25,2,3.1,1
+CUST0685,33,Female,Mumbai,22-12-2025,9,Month-to-month,DSL,UPI,549,4875.98,2,9.1,1
+CUST0686,32,Female,Mumbai,11-03-2022,55,Month-to-month,Fiber,UPI,882.9,47320.6,2,6.5,0
+CUST0687,47,Female,Delhi,14-11-2025,10,Two year,Fiber,Credit card,857.23,8632.29,1,7.7,0
+CUST0688,56,Female,Mumbai,28-01-2025,20,One year,Fiber,UPI,898.71,17099.53,0,8.3,1
+CUST0689,32,Male,Pune,18-04-2026,5,One year,Fiber,UPI,1042.24,5193.17,0,5.7,0
+CUST0690,33,Male,Hyderabad,17-02-2026,7,Month-to-month,Fiber,Credit card,999.77,7239,0,5.4,1
+CUST0691,42,Male,Mumbai,20-03-2023,43,Two year,None,Credit card,287.29,12882.27,1,4.8,0
+CUST0692,35,Male,Bengaluru,28-11-2023,34,One year,DSL,UPI,503.34,16844.12,2,5.9,1
+CUST0693,49,Male,Pune,25-06-2024,27,Month-to-month,Fiber,UPI,1006.99,27576,1,7.9,1
+CUST0694,18,Male,Pune,09-01-2025,20,One year,DSL,UPI,596.08,11595.93,0,5.9,0
+CUST0695,28,Male,Bengaluru,19-03-2026,6,Month-to-month,Fiber,UPI,761.88,4598.81,2,7.4,1
+CUST0696,29,Female,Mumbai,13-03-2025,18,Month-to-month,None,Debit card,356.99,6267.76,4,1.3,1
+CUST0697,18,Male,Bengaluru,30-09-2024,24,Month-to-month,Fiber,Net banking,982.05,23737.38,4,4.9,1
+CUST0698,26,Female,Pune,29-04-2023,41,Month-to-month,DSL,Credit card,405.93,16096.77,1,8.8,0
+CUST0699,27,Male,Chennai,27-04-2022,53,Month-to-month,DSL,Credit card,534.04,29552.99,7,4.2,1
+CUST0700,36,Female,Bengaluru,14-02-2023,44,Month-to-month,Fiber,Debit card,891.16,40728.18,3,4.5,0
+CUST0701,51,Female,Hyderabad,28-12-2023,33,Month-to-month,Fiber,Credit card,958.76,31123.1,2,5.1,1
+CUST0702,35,Male,Pune,15-06-2024,27,Two year,Fiber,UPI,858.74,23827.45,2,1,1
+CUST0703,26,Male,Mumbai,27-02-2024,31,Month-to-month,None,UPI,233.43,6943.62,2,4.5,0
+CUST0704,37,Female,Mumbai,12-04-2025,17,Month-to-month,DSL,Credit card,658.17,11457.83,3,7.9,1
+CUST0705,51,Female,Delhi,01-05-2024,29,Month-to-month,DSL,Credit card,562.53,15958.49,4,4.6,0
+CUST0706,26,Male,Mumbai,14-09-2024,24,Two year,DSL,UPI,643.36,14878.05,3,5.1,0
+CUST0707,27,Female,Pune,13-10-2020,72,One year,DSL,UPI,511.08,37453.46,2,2.1,0
+CUST0708,45,Female,Mumbai,30-01-2024,32,Two year,DSL,UPI,491.81,15690.4,2,3.4,0
+CUST0709,35,Male,Mumbai,27-05-2026,4,Month-to-month,DSL,UPI,660.42,2649.64,0,9.1,0
+CUST0710,46,Male,Mumbai,04-03-2025,19,Month-to-month,DSL,Credit card,620.2,11807.99,1,7.8,0
+CUST0711,38,Male,Pune,01-12-2024,22,One year,Fiber,Debit card,973.8,20479.78,2,4,1
+CUST0712,46,Female,Mumbai,29-09-2022,48,Month-to-month,None,Credit card,257.39,11800.46,6,3.8,1
+CUST0713,26,Female,Bengaluru,01-11-2023,35,Two year,Fiber,UPI,836.39,29569.8,0,6.9,0
+CUST0714,38,Female,Mumbai,03-01-2024,33,Two year,Fiber,UPI,1008.86,33704.75,2,4.1,0
+CUST0715,35,Female,Mumbai,14-07-2021,63,Month-to-month,DSL,Debit card,478.16,28759.99,2,2.7,0
+CUST0716,23,Male,Delhi,21-10-2020,72,Two year,Fiber,Credit card,1000.12,71133.3,1,6.4,0
+CUST0717,19,Male,Bengaluru,24-02-2023,43,One year,Fiber,UPI,1005.64,43730.52,3,7,1
+CUST0718,46,Male,Mumbai,27-01-2025,20,Month-to-month,Fiber,UPI,968.81,19679.79,2,7.4,0
+CUST0719,34,Male,Delhi,25-12-2024,21,Month-to-month,DSL,Debit card,544.98,11820.28,1,8.2,1
+CUST0720,26,Female,Chennai,08-01-2022,57,Month-to-month,DSL,Debit card,534.68,30235.18,2,3.5,1
+CUST0721,37,Female,Delhi,20-12-2024,21,Two year,Fiber,Net banking,883.2,18636.7,2,6.4,0
+CUST0722,52,Male,Chennai,01-08-2024,26,Month-to-month,Fiber,Credit card,796.4,20869.07,0,6.5,0
+CUST0723,18,Female,Hyderabad,07-03-2025,19,Month-to-month,DSL,Credit card,523.06,9751.35,1,6.5,0
+CUST0724,20,Female,Pune,15-10-2025,11,One year,None,Credit card,351.58,3694.83,2,5.9,1
+CUST0725,27,Male,Delhi,15-10-2020,72,Month-to-month,Fiber,UPI,951.95,65142.34,3,4.8,1
+CUST0726,56,Female,Bengaluru,23-07-2024,26,Month-to-month,None,Debit card,216.03,5805.57,3,1,1
+CUST0727,41,Female,Chennai,12-02-2021,68,One year,None,Credit card,354.09,23356.33,0,9.1,0
+CUST0728,47,Female,Delhi,24-12-2024,21,Month-to-month,Fiber,UPI,936.34,19919.26,3,6.5,1
+CUST0729,24,Female,Pune,10-05-2025,16,Month-to-month,DSL,Net banking,720.79,11621.5,3,3.3,1
+CUST0730,25,Male,Delhi,18-05-2023,41,Month-to-month,DSL,UPI,645.53,26201.09,6,5.8,1
+CUST0731,43,Female,Pune,22-05-2022,53,Month-to-month,DSL,UPI,684.69,37498.77,3,,1
+CUST0732,39,Male,Bengaluru,25-02-2022,55,Month-to-month,Fiber,UPI,938.17,52623.09,2,5.5,0
+CUST0733,45,Female,Delhi,14-09-2024,24,One year,DSL,Net banking,678.39,15504.32,1,5.3,0
+CUST0734,36,Male,Bengaluru,06-02-2023,44,Two year,DSL,Net banking,497.03,22474.43,1,7.6,0
+CUST0735,41,Male,Hyderabad,23-03-2025,18,Month-to-month,DSL,Credit card,590.26,10632.12,5,3.8,1
+CUST0736,40,Female,Bengaluru,30-04-2024,29,Two year,None,Net banking,296.88,8477.81,0,5,0
+CUST0737,47,Male,Bengaluru,10-11-2024,22,One year,DSL,Net banking,580.5,13060.75,1,8.7,0
+CUST0738,48,Male,Bengaluru,25-01-2025,20,One year,DSL,Debit card,635.51,12946.69,1,6.3,0
+CUST0739,,Female,Hyderabad,21-04-2024,29,One year,None,Net banking,350.75,9979.09,0,6.7,0
+CUST0740,18,Male,Hyderabad,25-10-2025,11,One year,Fiber,UPI,931.38,10740.06,1,7.9,1
+CUST0741,50,Female,Pune,11-08-2022,50,Two year,Fiber,Debit card,885.84,44950.66,2,5.1,0
+CUST0742,52,Male,Delhi,18-01-2025,20,Month-to-month,Fiber,Credit card,841.14,17000.75,2,5.5,1
+CUST0743,26,Male,Pune,10-09-2022,49,Month-to-month,None,Debit card,387.77,18183.47,2,6.9,0
+CUST0744,18,Female,Hyderabad,05-09-2025,13,Month-to-month,Fiber,UPI,927.98,11797.52,0,4.2,0
+CUST0745,39,Male,Bengaluru,02-02-2025,20,Month-to-month,DSL,Debit card,518.51,10315.21,0,7.4,1
+CUST0746,49,Male,Delhi,09-10-2025,11,One year,Fiber,Net banking,884.5,9856.59,1,5.3,1
+CUST0747,60,Female,Pune,24-10-2025,11,Month-to-month,Fiber,UPI,760.54,8376.62,1,8.2,0
+CUST0748,44,Female,Mumbai,03-08-2025,14,Month-to-month,DSL,Net banking,602.83,8661.61,4,6.6,0
+CUST0749,34,Male,Bengaluru,08-08-2025,13,Month-to-month,Fiber,UPI,884.13,11220.79,3,6.7,1
+CUST0750,27,Female,Pune,06-10-2025,11,Month-to-month,None,UPI,254.04,2850.93,3,3.1,1
+CUST0751,38,Female,Pune,28-06-2024,27,One year,Fiber,UPI,1026.77,28600.49,2,6.1,0
+CUST0752,34,Female,Hyderabad,31-05-2023,40,One year,None,Debit card,207.51,,1,4.5,0
+CUST0753,26,Male,Bengaluru,28-03-2023,42,Month-to-month,Fiber,Credit card,956.51,41261.5,3,5.9,0
+CUST0754,63,Female,Pune,02-04-2026,6,Month-to-month,None,UPI,474.94,2960.35,5,1.1,1
+CUST0755,59,Female,Mumbai,01-12-2024,22,Month-to-month,DSL,Credit card,686.18,14468.24,7,1.8,1
+CUST0756,52,Female,Chennai,22-01-2025,20,Month-to-month,Fiber,UPI,897.48,18303.55,1,8.8,0
+CUST0757,27,Male,Bengaluru,12-07-2021,63,One year,Fiber,Credit card,809.27,53373.52,2,7,0
+CUST0758,48,Female,Bengaluru,30-11-2024,22,One year,Fiber,Net banking,791.04,17531.05,3,5.3,1
+CUST0759,46,Female,Mumbai,11-08-2024,26,Month-to-month,DSL,Debit card,567.08,14327.29,2,4.7,0
+CUST0760,43,Male,Mumbai,05-01-2026,8,Month-to-month,DSL,Debit card,545.04,4577.79,1,4.7,1
+CUST0761,53,Female,Pune,19-07-2025,14,Two year,Fiber,Credit card,842.44,11410.47,0,7.4,1
+CUST0762,46,Female,Bengaluru,10-02-2026,7,One year,Fiber,Net banking,873.89,6016.64,1,6,0
+CUST0763,47,Male,Pune,30-05-2024,28,Month-to-month,DSL,UPI,591.82,16027.54,4,8.4,1
+CUST0764,46,Female,Pune,14-05-2021,65,Month-to-month,DSL,UPI,638.82,41375.95,0,6.7,1
+CUST0765,42,Male,Bengaluru,24-06-2025,15,Month-to-month,DSL,UPI,500.98,7453.74,5,5.4,1
+CUST0766,18,Female,Chennai,28-10-2024,23,Two year,DSL,Credit card,545.42,12533.67,2,3.8,0
+CUST0767,39,Female,Bengaluru,16-08-2025,13,Month-to-month,DSL,Credit card,587.23,7960.71,0,6.4,0
+CUST0768,31,Female,Delhi,09-04-2025,17,Month-to-month,None,Debit card,284.36,,1,,1
+CUST0769,23,Male,Delhi,20-04-2024,29,Two year,Fiber,UPI,1046.91,30404.8,2,5.6,0
+CUST0770,58,Female,Delhi,11-10-2020,72,One year,Fiber,UPI,918.58,68695.19,1,5.8,1
+CUST0771,59,Male,Mumbai,28-07-2021,63,Month-to-month,Fiber,Credit card,770.91,50110.6,7,5.1,0
+CUST0772,54,Female,Delhi,16-10-2020,72,Month-to-month,DSL,Net banking,633.45,44421.31,3,8.7,0
+CUST0773,41,Female,Delhi,24-08-2022,49,Month-to-month,Fiber,UPI,943.65,43986.68,1,6.9,0
+CUST0774,54,Male,Delhi,28-11-2024,22,One year,None,UPI,289.99,6462.4,2,8.4,1
+CUST0775,38,Male,Hyderabad,22-01-2025,20,Month-to-month,DSL,UPI,502.93,10405.47,3,7.1,1
+CUST0776,40,Male,Chennai,28-06-2025,15,Two year,DSL,Credit card,740.64,11168.31,0,9,0
+CUST0777,25,Female,Pune,27-07-2026,2,Two year,DSL,UPI,514.41,999.11,3,4.9,0
+CUST0778,43,Male,Mumbai,18-11-2024,22,Month-to-month,Fiber,UPI,952.86,21468.87,4,5.2,0
+CUST0779,39,Male,Pune,20-05-2021,65,One year,DSL,Credit card,616,40718.84,1,6.3,0
+CUST0780,22,Male,Mumbai,12-05-2021,65,Month-to-month,Fiber,UPI,948.06,62024.66,1,7.6,0
+CUST0781,37,Male,Mumbai,14-10-2020,72,Month-to-month,DSL,UPI,736.55,54958.43,2,7.7,1
+CUST0782,37,Male,Pune,19-03-2024,30,One year,None,UPI,344.93,10642.03,0,7.2,0
+CUST0783,60,Male,Bengaluru,06-11-2025,10,Month-to-month,DSL,Net banking,555.31,5646.37,2,7.9,1
+CUST0784,49,Male,Delhi,01-08-2023,38,Month-to-month,None,Credit card,388.48,,2,5.3,0
+CUST0785,38,Female,Chennai,30-10-2020,72,Month-to-month,Fiber,UPI,849.51,62156.83,2,7.9,0
+CUST0786,41,Male,Pune,13-11-2020,71,Month-to-month,DSL,UPI,613.08,43638.22,5,7.1,0
+CUST0787,39,Female,Pune,13-03-2025,18,Month-to-month,DSL,Credit card,496.55,8905.65,8,5.4,1
+CUST0788,36,Female,Mumbai,20-11-2025,10,One year,DSL,Net banking,517.34,5281.83,3,6.2,1
+CUST0789,25,Female,Pune,18-11-2025,10,Two year,Fiber,UPI,904.11,9141,0,8.3,0
+CUST0790,36,Male,Mumbai,15-06-2025,15,One year,Fiber,UPI,929.45,13927.78,1,5,0
+CUST0791,29,Male,Chennai,25-04-2025,17,Two year,DSL,UPI,463.81,7590.4,4,6,0
+CUST0792,23,Female,Pune,27-12-2024,21,Month-to-month,Fiber,Credit card,939.78,20133.89,2,6.8,1
+CUST0793,44,Female,Pune,05-04-2023,42,Two year,DSL,Net banking,534.45,22774.62,3,,0
+CUST0794,43,Female,Delhi,14-12-2024,21,Month-to-month,DSL,Credit card,702.38,14517.3,3,6.8,1
+CUST0795,18,Male,Delhi,29-05-2024,28,Month-to-month,None,UPI,271.84,7502.16,1,4.4,0
+CUST0796,37,Male,Delhi,23-02-2026,7,Two year,Fiber,Debit card,810.11,5527.14,1,5.9,0
+CUST0797,50,Male,Mumbai,20-06-2025,15,Month-to-month,None,Debit card,306.06,4802.96,4,5.7,1
+CUST0798,51,Male,Hyderabad,17-07-2025,14,Month-to-month,Fiber,UPI,826.7,11990.69,2,,1
+CUST0799,50,Female,Pune,07-03-2026,6,Month-to-month,DSL,UPI,701.52,4234.82,2,6.4,1
+CUST0800,38,Male,Delhi,12-01-2025,20,Month-to-month,DSL,UPI,600.04,11882.78,2,6.4,1
+CUST0801,28,Male,Bengaluru,09-02-2026,7,Month-to-month,Fiber,Debit card,887.87,6362.28,2,4.8,1
+CUST0802,25,Female,Hyderabad,14-02-2025,19,Month-to-month,Fiber,Debit card,947.34,18049.37,1,7.7,1
+CUST0803,42,Female,Mumbai,30-04-2024,29,Two year,Fiber,Debit card,819.6,24899.42,1,5.3,0
+CUST0804,43,Male,Delhi,19-04-2021,66,Month-to-month,DSL,Debit card,496.87,31334.51,3,10,0
+CUST0805,53,Male,Pune,21-07-2025,14,Month-to-month,DSL,UPI,632.67,8444.88,2,6.1,1
+CUST0806,51,Female,Pune,22-04-2024,29,Month-to-month,Fiber,UPI,812.03,23710.44,1,4.5,1
+CUST0807,36,Female,Pune,23-05-2025,16,Two year,Fiber,UPI,812,12606.5,1,4.9,1
+CUST0808,23,Female,Bengaluru,26-02-2026,7,Month-to-month,DSL,Net banking,666.94,4717.28,3,8,1
+CUST0809,34,Female,Mumbai,29-04-2021,66,Month-to-month,Fiber,Credit card,942.01,63922.34,1,5.9,1
+CUST0810,41,Female,Bengaluru,12-04-2024,30,Month-to-month,DSL,UPI,499.69,14448.2,1,4.2,1
+CUST0811,36,Male,Pune,04-09-2023,37,One year,None,UPI,250.47,9212.35,0,8.5,0
+CUST0812,31,Male,Hyderabad,08-10-2020,72,One year,DSL,Debit card,527.7,38711.23,3,5.2,0
+CUST0813,41,Female,Hyderabad,14-02-2025,19,One year,None,Debit card,442.11,8680.54,2,7.5,0
+CUST0814,32,Male,Pune,10-12-2025,9,One year,DSL,Debit card,672.48,6050.11,1,8.3,0
+CUST0815,30,Male,Pune,15-08-2025,13,Month-to-month,DSL,UPI,566.33,7145.95,4,6.1,0
+CUST0816,42,Male,Pune,02-02-2026,8,Month-to-month,Fiber,Net banking,946.1,7633.74,0,,0
+CUST0817,33,Female,Hyderabad,27-02-2022,55,Month-to-month,Fiber,Debit card,791.51,43335.05,2,3.2,1
+CUST0818,41,Male,Mumbai,03-10-2020,72,Month-to-month,DSL,Debit card,546.19,40395.05,3,4.5,1
+CUST0819,41,Male,Delhi,18-04-2024,29,Month-to-month,Fiber,Debit card,908.39,26489.72,1,6.2,1
+CUST0820,24,Male,Delhi,07-03-2023,43,Month-to-month,None,Net banking,336.18,14136.88,1,10,0
+CUST0821,32,Male,Hyderabad,16-08-2022,50,Month-to-month,DSL,Net banking,592.2,30363.26,1,9.9,0
+CUST0822,55,Female,Delhi,04-10-2020,72,One year,None,Credit card,319.84,23069.35,3,8.3,0
+CUST0823,24,Male,Delhi,26-10-2020,72,Month-to-month,Fiber,Credit card,906.27,,2,4.9,1
+CUST0824,18,Female,Chennai,10-04-2026,5,One year,DSL,UPI,586.91,2953.06,0,5.8,1
+CUST0825,18,Male,Pune,10-04-2025,17,One year,DSL,Debit card,576.31,10236.5,3,4.5,1
+CUST0826,38,Female,Hyderabad,15-06-2024,27,Month-to-month,Fiber,Credit card,865.9,23859.78,2,4.9,1
+CUST0827,38,Female,Pune,22-06-2025,15,Month-to-month,DSL,UPI,618.56,9091.72,2,9,0
+CUST0828,37,Female,Delhi,14-11-2024,22,One year,DSL,UPI,632.87,14216.74,1,6.2,1
+CUST0829,53,Female,Hyderabad,22-10-2023,35,One year,None,Net banking,315.87,10815.11,1,6.4,0
+CUST0830,18,Male,Bengaluru,17-10-2023,35,Month-to-month,DSL,Net banking,505.71,17775.41,2,7.7,1
+CUST0831,43,Female,Bengaluru,11-09-2022,49,Month-to-month,Fiber,Net banking,820.09,,2,3.3,1
+CUST0832,57,Female,Mumbai,24-06-2024,27,One year,DSL,Credit card,631.91,16630.58,0,7.1,0
+CUST0833,24,Female,Mumbai,08-07-2026,2,One year,DSL,Debit card,717.73,1413.62,2,,0
+CUST0834,33,Female,Mumbai,01-02-2025,20,Month-to-month,Fiber,Debit card,912.19,19050.51,3,,1
+CUST0835,29,Female,Delhi,08-01-2024,33,Month-to-month,Fiber,UPI,867.07,27899.69,1,5.6,1
+CUST0836,27,Female,Delhi,12-07-2022,51,Two year,Fiber,UPI,917.95,48224.72,2,5.2,0
+CUST0837,34,Female,Mumbai,10-11-2022,47,Month-to-month,Fiber,Net banking,809.05,38661.78,3,6.4,0
+CUST0838,55,Female,Mumbai,18-09-2024,24,Two year,DSL,UPI,704.72,16968.47,3,6.3,0
+CUST0839,60,Male,Mumbai,10-05-2025,16,Month-to-month,Fiber,Credit card,914.93,14108.24,1,6.3,1
+CUST0840,34,Male,Mumbai,06-09-2024,25,Month-to-month,DSL,Debit card,546.44,13257.41,2,7,0
+CUST0841,61,Male,Pune,24-04-2026,5,Month-to-month,Fiber,Debit card,886.66,4290.98,2,4.7,1
+CUST0842,38,Male,Hyderabad,11-04-2025,17,Month-to-month,DSL,UPI,557.84,9565.59,0,8.2,0
+CUST0843,59,Male,Bengaluru,08-12-2021,58,Two year,Fiber,Debit card,1004.93,61045.1,2,5.9,1
+CUST0844,37,Male,Pune,04-09-2024,25,Month-to-month,None,UPI,283.82,7363.17,2,5.4,1
+CUST0845,40,Male,Bengaluru,27-11-2023,34,Two year,Fiber,Debit card,912.43,29549.83,2,4.9,0
+CUST0846,42,Male,Hyderabad,07-01-2026,8,Month-to-month,DSL,UPI,645.9,5050.28,4,5.2,1
+CUST0847,75,Female,Mumbai,12-07-2022,51,Two year,Fiber,Debit card,840.74,41408.14,0,10,0
+CUST0848,48,Female,Pune,26-09-2024,24,Two year,Fiber,Debit card,915.5,23017.16,2,6.2,0
+CUST0849,30,Female,Pune,27-12-2023,33,One year,DSL,UPI,621.95,19981.71,0,4.9,0
+CUST0850,50,Male,Pune,23-07-2023,38,Month-to-month,DSL,UPI,475.67,17535.57,2,,0
+CUST0851,34,Male,Bengaluru,06-08-2022,50,One year,None,Debit card,320.22,16204.53,1,5.8,0
+CUST0852,32,Female,Chennai,16-03-2024,30,Month-to-month,Fiber,UPI,896.34,27041.29,2,6.8,1
+CUST0853,49,Male,Pune,18-09-2024,24,Two year,Fiber,UPI,910.4,21250.6,1,5.6,1
+CUST0854,38,Female,Bengaluru,22-11-2025,10,Month-to-month,DSL,Credit card,602.85,6131.2,4,7.9,0
+CUST0855,41,Male,Pune,18-02-2026,7,Month-to-month,DSL,Net banking,620.73,4170.01,1,5.6,1
+CUST0856,38,Male,Delhi,23-04-2024,29,Month-to-month,Fiber,Credit card,1006.99,27799.14,3,8.5,0
+CUST0857,42,Female,Bengaluru,12-01-2024,33,One year,DSL,UPI,505.64,15989.33,1,4.8,1
+CUST0858,43,Male,Mumbai,10-09-2023,37,Two year,DSL,Net banking,572.63,20901,1,6.1,0
+CUST0859,18,Male,Pune,30-07-2025,14,Month-to-month,DSL,Credit card,653.33,9581.1,0,9.5,1
+CUST0860,46,Female,Delhi,14-04-2025,17,One year,Fiber,Credit card,938.47,16029.37,1,7,0
+CUST0861,26,Male,Chennai,19-04-2024,29,Two year,Fiber,Credit card,936.75,27857.73,1,10,0
+CUST0862,21,Female,Mumbai,13-02-2025,19,Month-to-month,Fiber,UPI,1120.29,20905.55,5,4.8,1
+CUST0863,37,Male,Pune,28-10-2020,72,Month-to-month,DSL,UPI,649.13,47762.49,2,,1
+CUST0864,39,Male,Pune,30-04-2025,17,One year,Fiber,Debit card,990.48,17623.12,1,10,0
+CUST0865,30,Female,Delhi,06-11-2023,35,One year,DSL,UPI,575.43,19853.58,2,3.6,1
+CUST0866,48,Male,Delhi,20-12-2022,46,Month-to-month,DSL,Debit card,520.57,25141.28,6,,1
+CUST0867,22,Female,Hyderabad,14-10-2022,48,Two year,DSL,UPI,574.85,27974.71,1,5.2,0
+CUST0868,33,Female,Bengaluru,25-02-2025,19,Month-to-month,Fiber,UPI,956.96,18634.23,2,7.8,1
+CUST0869,31,Female,Hyderabad,22-06-2023,39,Two year,Fiber,UPI,932.55,35468.1,1,3.8,0
+CUST0870,37,Male,Hyderabad,10-11-2023,35,Two year,DSL,Credit card,632.26,22445.75,3,7,0
+CUST0871,41,Female,Mumbai,24-05-2023,40,Two year,DSL,Debit card,582.85,23339.66,0,7.9,0
+CUST0872,26,Female,Delhi,19-04-2024,29,Month-to-month,None,UPI,270.1,8190.4,2,9.9,0
+CUST0873,47,Female,Mumbai,16-12-2022,46,Month-to-month,Fiber,UPI,4071.96,42386.63,1,8.5,0
+CUST0874,39,Male,Mumbai,07-03-2024,31,Month-to-month,None,UPI,357.96,10982.1,2,7,0
+CUST0875,18,Female,Chennai,21-12-2025,9,Month-to-month,Fiber,Debit card,967.26,9094.36,0,9.4,1
+CUST0876,18,Male,Bengaluru,15-02-2024,31,One year,Fiber,UPI,819.5,26382.1,0,8,0
+CUST0877,38,Female,Chennai,22-12-2023,33,Month-to-month,Fiber,Debit card,960.99,31999.3,3,5.1,0
+CUST0878,35,Male,Mumbai,20-01-2023,44,Month-to-month,DSL,UPI,547.94,23101.87,3,,1
+CUST0879,37,Female,Delhi,04-05-2024,29,Month-to-month,Fiber,UPI,937.51,26265.55,4,4.6,1
+CUST0880,38,Female,Delhi,04-10-2020,72,Month-to-month,Fiber,Debit card,884.64,60999.02,4,5.5,1
+CUST0881,41,Male,Pune,13-08-2024,25,Month-to-month,DSL,Credit card,725.26,17420.73,2,6.6,1
+CUST0882,49,Female,Mumbai,22-03-2025,18,One year,DSL,UPI,566.55,10684.29,0,3.2,0
+CUST0883,25,Female,Delhi,24-07-2021,63,One year,Fiber,Net banking,914.29,55942.35,0,6.6,0
+CUST0884,24,Male,Pune,02-10-2024,24,Month-to-month,Fiber,UPI,948.53,23199.2,1,6.7,1
+CUST0885,25,Male,Chennai,09-06-2024,28,Two year,DSL,UPI,530.08,15044.88,0,8,0
+CUST0886,41,Female,Pune,21-12-2023,33,Two year,Fiber,UPI,894.17,29894.59,0,9.9,0
+CUST0887,53,Male,Pune,05-03-2024,31,Month-to-month,Fiber,Credit card,878.67,26439.87,2,6.6,1
+CUST0888,33,Male,Bengaluru,27-06-2023,39,One year,DSL,Debit card,558.89,21969.66,0,5.4,0
+CUST0889,18,Female,Pune,11-04-2023,42,Month-to-month,Fiber,UPI,864.82,36778.43,4,2.3,1
+CUST0890,18,Male,Chennai,09-04-2025,17,Month-to-month,DSL,Net banking,688.96,11794.78,4,6.8,1
+CUST0891,28,Female,Bengaluru,12-10-2025,11,Month-to-month,Fiber,Credit card,852.12,9079.15,2,4.7,1
+CUST0892,31,Male,Pune,24-09-2025,12,Month-to-month,Fiber,Net banking,945.31,11596.75,1,8.2,1
+CUST0893,33,Female,Bengaluru,11-12-2021,58,Two year,Fiber,Debit card,925.17,51369.89,2,8.8,0
+CUST0894,38,Male,Bengaluru,08-11-2024,23,Two year,Fiber,Net banking,788.24,18294.86,0,4.2,1
+CUST0895,34,Female,Bengaluru,16-12-2022,46,Two year,Fiber,Credit card,941.53,43034.32,1,7.6,0
+CUST0896,51,Female,Hyderabad,19-02-2023,43,One year,Fiber,UPI,786.92,32992.59,3,8.3,1
+CUST0897,30,Male,Bengaluru,19-05-2024,28,One year,None,Credit card,350.25,10108.46,2,8.1,0
+CUST0898,28,Male,Delhi,11-08-2025,13,Two year,DSL,Debit card,559.42,7036.75,0,3.2,1
+CUST0899,44,Female,Mumbai,30-01-2023,44,Month-to-month,Fiber,Credit card,900.67,41345.36,0,5.5,0
+CUST0900,20,Female,Bengaluru,06-07-2024,27,Month-to-month,DSL,Debit card,496.46,13919.91,5,2.9,1
+CUST0901,43,Female,Chennai,01-12-2025,10,One year,DSL,UPI,609.79,6012.89,0,7.9,0
+CUST0902,39,Male,Delhi,16-02-2025,19,Month-to-month,DSL,Debit card,674.16,12559.46,6,5.6,0
+CUST0903,36,Female,Bengaluru,23-02-2026,7,Month-to-month,Fiber,UPI,835.44,5636.08,3,1.1,1
+CUST0904,57,Female,Delhi,07-02-2025,20,Month-to-month,Fiber,Net banking,851.43,17737.55,4,5.1,1
+CUST0905,31,Male,Bengaluru,13-05-2024,29,One year,Fiber,UPI,936.37,27501.04,0,8.4,0
+CUST0906,63,Male,Chennai,25-08-2024,25,Month-to-month,Fiber,UPI,938.37,22360.85,2,6.6,1
+CUST0907,35,Male,Pune,15-10-2024,23,Month-to-month,Fiber,Debit card,705.27,16239.05,0,7.3,1
+CUST0908,23,Female,Pune,02-06-2024,28,Month-to-month,None,Debit card,461.23,12379.52,2,5.6,1
+CUST0909,39,Male,Delhi,19-07-2023,38,Month-to-month,None,Debit card,1363.1,13102.56,3,4,0
+CUST0910,25,Male,Delhi,10-10-2022,48,Two year,Fiber,Net banking,955.75,45917.11,1,6.6,0
+CUST0911,29,Female,Delhi,02-06-2022,52,Month-to-month,DSL,UPI,588.52,29326.42,1,6.7,0
+CUST0912,43,Male,Pune,30-06-2025,15,One year,Fiber,Debit card,751.57,11629.64,1,7.8,0
+CUST0913,45,Female,Mumbai,05-02-2022,56,One year,DSL,UPI,653.98,35752.42,0,8.3,0
+CUST0914,31,Female,Delhi,04-07-2024,27,Month-to-month,DSL,Credit card,554.78,15041.2,2,6.5,1
+CUST0915,50,Female,Delhi,16-12-2024,21,Two year,Fiber,Credit card,943.51,20089.2,0,,0
+CUST0916,52,Female,Bengaluru,22-09-2025,12,One year,DSL,UPI,582.5,7313.15,0,6.3,0
+CUST0917,55,Female,Bengaluru,31-07-2026,2,One year,None,Credit card,319.04,637.69,3,3.4,1
+CUST0918,44,Female,Bengaluru,09-10-2023,36,Month-to-month,DSL,Debit card,538,20176.26,2,7.2,1
+CUST0919,54,Female,Hyderabad,05-11-2023,35,Month-to-month,DSL,UPI,669.15,23080.32,4,5.8,0
+CUST0920,18,Male,Bengaluru,26-03-2025,18,Two year,DSL,Net banking,504.93,9413.61,3,6.8,0
+CUST0921,34,Male,Delhi,31-03-2025,18,One year,Fiber,Credit card,1079.65,18920.31,2,4,1
+CUST0922,28,Female,Bengaluru,23-09-2024,24,Two year,Fiber,UPI,1079.04,26434.27,4,8.8,1
+CUST0923,39,Male,Pune,11-12-2024,21,Two year,DSL,Credit card,730.62,14711.83,0,8.3,0
+CUST0924,31,Female,Mumbai,16-06-2025,15,Month-to-month,Fiber,UPI,1002.04,15761.16,1,6.1,0
+CUST0925,36,Female,Delhi,26-10-2025,11,One year,DSL,UPI,593.24,6821.86,2,4.6,0
+CUST0926,61,Female,Hyderabad,03-02-2022,56,Month-to-month,Fiber,Debit card,993.32,55304.48,2,8.2,0
+CUST0927,36,Male,Bengaluru,08-02-2025,19,One year,Fiber,UPI,892.31,16994.47,2,4.3,0
+CUST0928,43,Male,Pune,08-11-2023,35,Month-to-month,Fiber,UPI,775.72,27415.66,3,,1
+CUST0929,35,Male,Delhi,12-06-2023,40,Month-to-month,None,Debit card,420.26,16432.23,4,4.5,0
+CUST0930,39,Female,Mumbai,15-10-2023,36,One year,Fiber,UPI,990.31,36273.17,2,9.4,0
+CUST0931,38,Female,Bengaluru,24-04-2023,41,One year,Fiber,Debit card,897.49,37527.74,0,6.7,0
+CUST0932,43,Female,Hyderabad,22-09-2023,36,One year,Fiber,Debit card,801.99,28944.04,1,9.5,0
+CUST0933,52,Female,Delhi,26-05-2025,16,Month-to-month,DSL,UPI,553.1,8537.86,2,5,1
+CUST0934,58,Female,Delhi,13-11-2024,22,Month-to-month,None,Credit card,199,4561.52,2,6.3,0
+CUST0935,42,Female,Mumbai,06-03-2022,55,Two year,Fiber,UPI,975.61,51592.94,2,7.7,0
+CUST0936,45,Male,Delhi,10-03-2025,18,Month-to-month,None,Credit card,199,3628.27,1,,0
+CUST0937,24,Female,Hyderabad,15-06-2024,27,Month-to-month,Fiber,UPI,922.95,23930.56,1,8.6,1
+CUST0938,37,Male,Bengaluru,20-07-2023,38,One year,DSL,Net banking,532.5,19518.88,2,5.4,0
+CUST0939,49,Female,Delhi,17-02-2021,68,Month-to-month,Fiber,UPI,785.86,50876.31,3,6.1,0
+CUST0940,48,Female,Mumbai,04-06-2022,52,One year,DSL,Debit card,619.07,31751.79,1,8.9,0
+CUST0941,41,Male,Pune,31-08-2025,13,Month-to-month,DSL,UPI,573.3,7556.93,2,5,1
+CUST0942,49,Female,Pune,19-11-2023,34,Two year,DSL,UPI,667.06,22728.9,2,7.3,0
+CUST0943,44,Male,Pune,04-02-2024,32,Two year,Fiber,Credit card,798.59,26000.91,1,6.3,0
+CUST0944,52,Female,Mumbai,26-11-2024,22,Two year,DSL,Credit card,539.41,12074.72,2,6.7,0
+CUST0945,41,Male,Chennai,26-05-2024,28,One year,None,Net banking,199,5371.5,2,6.5,0
+CUST0946,34,Male,Delhi,15-05-2025,16,Month-to-month,DSL,UPI,425.25,6502.81,2,4.9,0
+CUST0947,42,Female,Mumbai,19-09-2024,24,One year,DSL,UPI,743.86,18076.44,3,5.5,0
+CUST0948,18,Male,Pune,09-02-2025,19,Two year,DSL,UPI,766.69,14790.31,1,6.9,0
+CUST0949,43,Female,Mumbai,22-04-2024,29,One year,Fiber,UPI,907.42,26464.4,1,6.5,0
+CUST0950,18,Female,Hyderabad,16-12-2024,21,One year,None,Net banking,234.09,4790.91,0,9.8,0
+CUST0951,18,Male,Mumbai,13-11-2020,71,One year,Fiber,Net banking,876.12,64137.62,0,8.8,0
+CUST0952,43,Male,Bengaluru,01-04-2024,30,One year,DSL,Net banking,669.89,19243.97,0,7.5,0
+CUST0953,44,Male,Hyderabad,15-07-2024,26,One year,Fiber,UPI,858.85,22625.55,0,5.6,1
+CUST0954,24,Male,Pune,29-10-2024,23,Month-to-month,Fiber,Credit card,919.01,20334.89,0,5.5,1
+CUST0955,29,Male,Bengaluru,21-12-2024,21,Month-to-month,DSL,Debit card,598.98,12772.85,4,9.2,0
+CUST0956,54,Female,Chennai,26-11-2025,10,One year,DSL,UPI,554.49,5499.28,1,4.8,0
+CUST0957,32,Male,Mumbai,05-01-2023,45,Month-to-month,None,Debit card,257.9,11858.62,2,6.5,0
+CUST0958,65,Female,Pune,17-07-2021,63,Two year,None,UPI,323.47,19466.04,3,6.6,0
+CUST0959,38,Male,Chennai,01-04-2025,18,One year,Fiber,UPI,821.85,14874.79,2,5.7,1
+CUST0960,43,Female,Hyderabad,01-03-2022,55,Month-to-month,Fiber,Net banking,936.14,49659.26,0,5.2,0
+CUST0961,57,Female,Delhi,08-10-2020,72,Two year,Fiber,UPI,862.27,63215.73,1,,0
+CUST0962,40,Male,Delhi,10-10-2020,72,One year,DSL,Net banking,610.19,42264.01,1,5.7,0
+CUST0963,26,Female,Pune,24-09-2021,61,One year,DSL,UPI,710.72,,3,4.7,0
+CUST0964,37,Male,Hyderabad,28-10-2025,11,Month-to-month,None,UPI,286.54,3219.12,4,8,0
+CUST0965,38,Male,Delhi,29-10-2025,11,Two year,DSL,UPI,673.58,7085.98,2,6.3,0
+CUST0966,22,Female,Pune,28-04-2023,41,Month-to-month,Fiber,UPI,756.64,30167.67,6,4,1
+CUST0967,35,Female,Bengaluru,16-06-2024,27,One year,DSL,Credit card,562.37,15677.07,1,6.8,0
+CUST0968,29,Male,Chennai,22-05-2026,4,Month-to-month,DSL,UPI,602.22,2483.48,2,7.5,0
+CUST0969,49,Male,Hyderabad,29-01-2025,20,One year,DSL,Credit card,753.87,15611.33,0,6.4,0
+CUST0970,38,Male,Mumbai,02-06-2023,40,One year,Fiber,Net banking,743.2,29211.03,0,8.6,0
+CUST0971,35,Male,Pune,11-09-2024,24,One year,Fiber,UPI,892.3,21475.27,0,4.7,1
+CUST0972,37,Male,Chennai,01-07-2024,27,Month-to-month,Fiber,UPI,1016.54,28196.82,4,7.7,1
+CUST0973,41,Male,Chennai,27-10-2025,11,Two year,Fiber,Credit card,837.2,8874.89,1,6.6,0
+CUST0974,45,Female,Delhi,23-01-2025,20,One year,DSL,Debit card,582.97,11921.03,3,5.9,0
+CUST0975,26,Male,Bengaluru,22-04-2023,41,Month-to-month,Fiber,Credit card,926.54,36459.07,0,5.8,0
+CUST0976,26,Female,Delhi,16-02-2025,19,Two year,DSL,UPI,614.76,12163.13,1,4.4,0
+CUST0977,51,Female,Mumbai,10-12-2021,58,One year,DSL,Credit card,725.26,42642.68,2,3.3,0
+CUST0978,33,Female,Pune,22-05-2024,28,Two year,None,Credit card,335.88,9398.34,0,5.6,0
+CUST0979,21,Male,Pune,16-10-2023,36,Two year,Fiber,UPI,1006.22,36168.6,1,7.7,1
+CUST0980,43,Female,Mumbai,27-04-2023,41,Two year,Fiber,UPI,871.2,34581.05,3,4.2,0
+CUST0981,44,Female,Hyderabad,16-06-2023,40,One year,Fiber,Net banking,840.76,33112.21,0,4.2,0
+CUST0982,20,Male,Pune,25-08-2025,13,One year,Fiber,UPI,881.94,11725.62,3,4.3,0
+CUST0983,41,Female,Mumbai,27-06-2025,15,Month-to-month,Fiber,UPI,807.27,12158.63,2,5.6,0
+CUST0984,47,Male,Delhi,13-05-2026,4,Month-to-month,DSL,UPI,638.68,2562.21,3,5.3,1
+CUST0985,42,Female,Pune,02-12-2024,22,One year,Fiber,Credit card,869.13,,0,6.8,0
+CUST0986,46,Male,Pune,30-07-2025,14,Month-to-month,Fiber,Credit card,846.26,12073.17,0,8.9,0
+CUST0987,21,Female,Delhi,11-02-2025,19,Two year,Fiber,UPI,939.89,17665.11,2,8.5,0
+CUST0988,42,Male,Mumbai,26-10-2024,23,Month-to-month,DSL,Credit card,508.5,11324.46,1,10,0
+CUST0989,34,Male,Bengaluru,22-03-2024,30,Month-to-month,None,Debit card,361.64,11330.67,2,3.4,0
+CUST0990,32,Male,Chennai,23-09-2024,24,Month-to-month,DSL,UPI,561.73,13490.69,1,5.1,0
+CUST0991,48,Male,Pune,22-09-2024,24,Month-to-month,DSL,Net banking,692.73,16672.13,5,,0
+CUST0992,56,Male,Chennai,25-11-2023,34,Month-to-month,DSL,UPI,568.58,20262.29,2,5.5,1
+CUST0993,60,Male,Chennai,22-07-2024,26,Month-to-month,DSL,UPI,650.55,16688.34,3,7.5,1
+CUST0994,54,Male,Hyderabad,24-09-2022,48,Two year,Fiber,Net banking,914.36,45833.67,2,6.7,0
+CUST0995,37,Female,Bengaluru,19-07-2024,26,Month-to-month,DSL,Debit card,659.51,17481.5,0,9.8,0
+CUST0996,42,Female,Bengaluru,19-02-2021,68,Month-to-month,DSL,UPI,608.8,41949.39,3,7.8,1
+CUST0997,47,Female,Bengaluru,30-09-2025,12,Month-to-month,Fiber,Debit card,766.93,8958.74,3,7.9,0
+CUST0998,39,Female,Bengaluru,14-12-2024,21,Month-to-month,DSL,Credit card,680.7,13653.95,2,5.6,1
+CUST0999,40,Male,Pune,27-05-2025,16,Month-to-month,DSL,UPI,592.99,9428.81,3,5.8,1
+CUST1000,48,Male,Chennai,05-03-2024,31,One year,DSL,Debit card,663.16,19550.97,3,5.4,0

@@ -1,0 +1,16 @@
+student_id,name,age,gender,city,department,marks,attendance_pct,fees_paid,admission_date,is_scholarship,cgpa
+S001,Amit Patil,20,M,Pune,AIML,85,92%,"45,000",2022-06-15,Yes,8.5
+S002,Sneha Kulkarni,21,F,Mumbai,CSE,78,88%,"50,000",15/07/2021,No,7.9
+S003,Rahul Deshmukh,19,Male,Pune,AIML,N/A,75%,"45,000",2023-06-20,Yes,7.2
+S004,Priya Joshi,twenty,Female,Nashik,IT,92,95%,"48,000",2022-06-18,No,9.1
+S005,Karan Shah,22,M,Pune,CSE,67,-,"50,000",2020-07-01,No,6.8
+S006,Neha Pawar,20,F,Aurangabad,AIML,88,90%,"45,000",2022-06-15,Yes,8.7
+S007,Vikas More,21,M,Jalna,IT,NA,82%,"48,000",01/08/2021,No,7.0
+S008,Anjali Rane,19,F,Pune,AIML,74,79%,"45,000",2023-06-22,Yes,7.5
+S009,Rohan Gaikwad,23,M,Nagpur,CSE,81,85%,"50,000",2019-07-10,No,8.0
+S010,Pooja Nair,20,F,Mumbai,IT,90,93%,"48,000",2022-06-25,Yes,8.9
+S011,Sagar Jadhav,21,Male,Pune,AIML,?,80%,"45,000",2021-07-05,No,7.3
+S012,Divya Menon,20,Female,Nashik,CSE,69,72%,"50,000",2022-06-30,No,6.9
+S013,Aditya Kale,22,M,Pune,AIML,95,97%,"45,000",2020-06-12,Yes,9.4
+S014,Kavita Sawant,19,F,Jalna,IT,72,N/A,"48,000",2023-07-01,No,7.1
+S015,Manish Bhosale,21,M,Aurangabad,CSE,84,89%,"50,000",2021-06-28,Yes,8.2

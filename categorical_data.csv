@@ -1,0 +1,31 @@
+ID,Gender,Education_Level,Employment_Status,Marital_Status,Region,Product_Category,Payment_Method,Customer_Segment,Satisfaction_Level
+1,Male,Bachelor's,Employed,Single,North,Electronics,Credit Card,Regular,High
+2,Female,Master's,Employed,Married,South,Clothing,Debit Card,Premium,Medium
+3,Male,High School,Unemployed,Single,East,Groceries,Cash,Regular,Low
+4,Female,Bachelor's,Self-Employed,Married,West,Electronics,UPI,Premium,High
+5,Male,PhD,Employed,Divorced,North,Furniture,Credit Card,Regular,Medium
+6,Female,High School,Student,Single,South,Clothing,Cash,Regular,Low
+7,Male,Master's,Employed,Married,East,Electronics,Debit Card,Premium,High
+8,Female,Bachelor's,Employed,Single,West,Groceries,UPI,Regular,Medium
+9,Male,High School,Self-Employed,Married,North,Furniture,Cash,Regular,Low
+10,Female,PhD,Employed,Divorced,South,Electronics,Credit Card,Premium,High
+11,Male,Bachelor's,Unemployed,Single,East,Clothing,Debit Card,Regular,Low
+12,Female,Master's,Employed,Married,West,Furniture,UPI,Premium,Medium
+13,Male,High School,Student,Single,North,Groceries,Cash,Regular,Medium
+14,Female,Bachelor's,Employed,Married,South,Electronics,Credit Card,Premium,High
+15,Male,Master's,Self-Employed,Divorced,East,Clothing,Debit Card,Regular,Medium
+16,Female,High School,Unemployed,Single,West,Groceries,Cash,Regular,Low
+17,Male,PhD,Employed,Married,North,Furniture,Credit Card,Premium,High
+18,Female,Bachelor's,Employed,Single,South,Electronics,UPI,Regular,Medium
+19,Male,High School,Student,Married,East,Clothing,Cash,Regular,Low
+20,Female,Master's,Self-Employed,Divorced,West,Groceries,Debit Card,Premium,Medium
+21,Male,Bachelor's,Employed,Single,North,Furniture,Credit Card,Regular,High
+22,Female,High School,Unemployed,Married,South,Electronics,Cash,Regular,Low
+23,Male,PhD,Employed,Divorced,East,Clothing,UPI,Premium,High
+24,Female,Bachelor's,Student,Single,West,Groceries,Debit Card,Regular,Medium
+25,Male,Master's,Self-Employed,Married,North,Furniture,Credit Card,Premium,Medium
+26,Female,High School,Employed,Single,South,Electronics,Cash,Regular,Low
+27,Male,Bachelor's,Unemployed,Divorced,East,Clothing,UPI,Regular,Low
+28,Female,PhD,Employed,Married,West,Groceries,Credit Card,Premium,High
+29,Male,High School,Student,Single,North,Furniture,Debit Card,Regular,Medium
+30,Female,Master's,Employed,Married,South,Electronics,Cash,Premium,High
